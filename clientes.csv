@@ -1,0 +1,848 @@
+CompanyName,SalesPerson,Phone,PasswordHash,PasswordSalt,ModifiedDate
+A Bike Store,adventure-works\pamela0,245-555-0173,L/Rlwxzp4w7RWmEgXX+/A7cXaePEPcp+KwQhl2fJL7w=,1KjXYs4=,2005-08-01 00:00:00.000
+Progressive Sports,adventure-works\david8,170-555-0127,YPdtRdvqeAhj6wyxEsFdshBDNXxkCXn+CRgbvJItknw=,fs1ZGhY=,2006-08-01 00:00:00.000
+Advanced Bike Components,adventure-works\jillian0,279-555-0130,LNoK27abGQo48gGue3EBV/UrlYSToV0/s87dCRV7uJk=,YTNH5Rw=,2005-09-01 00:00:00.000
+Modular Cycle Systems,adventure-works\jillian0,710-555-0173,ElzTpSNbUW1Ut+L5cWlfR7MF6nBZia8WpmGaQPjLOJA=,nm7D5e4=,2006-07-01 00:00:00.000
+Metropolitan Sports Supply,adventure-works\shu0,828-555-0186,KJqV15wsX3PG8TS5GSddp6LFFVdd3CoRftZM/tP0+R4=,cNFKU4w=,2006-09-01 00:00:00.000
+Aerobic Exercise Company,adventure-works\linda3,244-555-0112,OKT0scizCdIzymHHOtyJKQiC/fCILSooSZ8dQ2Y34VM=,ihWf50M=,2007-09-01 00:00:00.000
+Associated Bikes,adventure-works\shu0,192-555-0173,ZccoP/jZGQm+Xpzc7RKwDhS11YFNybwcPVRYTSNcnSg=,sPoUBSQ=,2006-07-01 00:00:00.000
+Rural Cycle Emporium,adventure-works\josé1,150-555-0127,Qa3aMCxNbVLGrc0b99KsbQqiVgwYDfHcsK9GZSUxcTM=,Ls05W3g=,2006-09-01 00:00:00.000
+Sharp Bikes,adventure-works\josé1,926-555-0159,uRlorVzDGNJIX9I+ehTlRK+liT4UKRgWhApJgUMC2d4=,jpHKbqE=,2005-08-01 00:00:00.000
+Bikes and Motorbikes,adventure-works\garrett1,112-555-0191,jtF9jBoFYeJTaET7x+eJDkd7BzMz15Wo9odbGPBaIak=,wVLnvHo=,2006-08-01 00:00:00.000
+Bulk Discount Store,adventure-works\jae0,1 (11) 500 555-0132,sKt9daCzEEKWAzivEGPOp8tmaM1R3I+aJfcBjzJRFLo=,8KfYx/4=,2006-09-01 00:00:00.000
+Catalog Store,adventure-works\michael9,440-555-0132,61zeTkO+eI5g8GG0swny8Wp/6GzZMFnT71fnW4lTHNY=,c7Ttvv0=,2005-08-01 00:00:00.000
+Center Cycle Shop,adventure-works\pamela0,521-555-0195,DzbqWX7B3EK5Dub92CKHYSUGKGbZCbrcVDpVe/xyBeI=,zXNgrJw=,2007-04-01 00:00:00.000
+Central Discount Store,adventure-works\david8,582-555-0113,o1GVo3vExeNzo0/ctdRGf2eDK3uzTlcUbr18tN+Slf8=,uMsvfdo=,2005-09-01 00:00:00.000
+Chic Department Stores,adventure-works\jillian0,928-555-0116,IaD5AeqK9mRiIrJi/etZGVO6EiybLf/oksA2CqrpoJ0=,p6pOqKc=,2006-09-01 00:00:00.000
+Travel Systems,adventure-works\jillian0,121-555-0121,23AwhujCoXYSPiN/B+G8Z9rk36xl35EbdLT7akTMTqU=,SmyIPjE=,2005-08-01 00:00:00.000
+Bike World,adventure-works\shu0,216-555-0122,d0WSjosAd7Y3XOWjNAkoTClCb50vwPuAawOSI1iosgs=,33g5co8=,2006-09-01 00:00:00.000
+Eastside Department Store,adventure-works\linda3,926-555-0164,ylTpkIOHKLcjihNjS0j/k10eOHOsWQMNhlbuOCp+UTY=,TgZnUOg=,2006-09-01 00:00:00.000
+Coalition Bike Company,adventure-works\shu0,357-555-0161,pKYDelLBOZMO98GBzhMxBSzzE0gUYKx9dXzYTYNuBgw=,jKtOaOw=,2006-09-01 00:00:00.000
+Commuter Bicycle Store,adventure-works\josé1,972-555-0163,wqhgKfOTfef4Zo3cb6FwsFzvG/yCVstuYh3AuwjRszQ=,SZ+r60o=,2007-08-01 00:00:00.000
+Cross-Country Riding Supplies,adventure-works\josé1,344-555-0144,ftRWIIT4oF+if+ddn1ROYXHw6PAooKFX3uALZ0uEU98=,IRNPDIw=,2005-08-01 00:00:00.000
+Cycle Merchants,adventure-works\garrett1,783-555-0110,FV6z03ywMJOumcU+TEoL/Z/s4YP2fe8B3MJUUTA0CHU=,mFRhaEg=,2006-09-01 00:00:00.000
+Cycles Wholesaler & Mfg.,adventure-works\jae0,1 (11) 500 555-0181,2Pyd3S3Os61yt+lfSjMgSDNwT1LL4Qs51m1ob42We40=,Jvsxxrg=,2007-07-01 00:00:00.000
+Two Bike Shops,adventure-works\pamela0,724-555-0161,cvqeC4fJcKwJ9jlluiWvK5/MyuSi8neLnjFDGdvzJy4=,ot8WcXk=,2006-09-01 00:00:00.000
+Finer Mart,adventure-works\david8,867-555-0114,Q/nGAVzOO1ZT/4+BQ1kwltqQyzycLA2GGmDmBBxLMnM=,6IvcbVg=,2007-09-01 00:00:00.000
+Fitness Hotel,adventure-works\jillian0,377-555-0132,Uo3kAuNh936QfPTIfPt6I6Z3+olLMRu5IC5awuzDaG8=,uHgb0IU=,2006-09-01 00:00:00.000
+Journey Sporting Goods,adventure-works\jillian0,417-555-0182,kqptixZ7LqTuOKcc7ylpabWrgWr5BDXa2fpkDxEwaCY=,Xe7grug=,2005-08-01 00:00:00.000
+Distant Inn,adventure-works\shu0,244-555-0127,92Sfw/bl0dUJO9SAfoKn452VJcstSo2lgAbSPk97nRA=,8soIcx8=,2006-07-01 00:00:00.000
+Healthy Activity Store,adventure-works\linda3,911-555-0165,jLMkpmNutZFzWw7sSWZeqd91vtlRwaWx2Ub21mhsvlU=,JK9/WX8=,2006-07-01 00:00:00.000
+Frugal Bike Shop,adventure-works\shu0,482-555-0174,BmJaM+147GrhU00kNTtaTolp0EJcarJK/SCfew4ZiYA=,YADhpPo=,2006-08-01 00:00:00.000
+Gear-Shift Bikes Limited,adventure-works\josé1,653-555-0159,HyZexVTTLfKfhx/Sb+XHQb4vta2LC1FD3OYIkpmzMlQ=,/kc6RdY=,2006-12-01 00:00:00.000
+Greater Bike Store,adventure-works\josé1,141-555-0172,RLemw98UkhyklI9z6Kx01t3fpE6z6E9v5GdRReTdOIY=,8n38uVg=,2005-09-01 00:00:00.000
+Grand Industries,adventure-works\garrett1,164-555-0118,YYTwMHBzX9ZM2XoYAzTo7bVfsHm05BO3Sl1+sokcRjM=,Zb6O1a0=,2007-09-01 00:00:00.000
+Instruments and Parts Company,adventure-works\jae0,1 (11) 500 555-0155,ox4SPBzzVPKyCVoIcZvkdVLtnQlKoDXCciBGcqVAfrI=,n7ydrrc=,2007-09-01 00:00:00.000
+Kickstands and Accessories Company,adventure-works\pamela0,932-555-0163,katp5sn21ZqJq5Z26YRBk9XXP3iFjpsX7tNPYAAxZlI=,xw9RymE=,2007-09-01 00:00:00.000
+Latest Accessories Sales,adventure-works\david8,461-555-0118,tbk7TwAC5jsqEhFRRIhnL9kPBoTy3XS+EjlReKVp5mw=,hpOsvJU=,2006-08-01 00:00:00.000
+Leading Sales & Repair,adventure-works\jillian0,260-555-0130,VzG/BDjkh2mMWAn2eZ/FQDI5/pGurtzdCfxTaCf6zAs=,N5Ajt+s=,2005-09-01 00:00:00.000
+Largest Bike Store,adventure-works\jillian0,436-555-0160,el1s9e+hWeb+79bwrhU+hxHEyJN+j6tR8vWyKJDZmTs=,QgzjTPU=,2005-11-01 00:00:00.000
+Locks Company,adventure-works\shu0,385-555-0140,J9nhrWh6kpc/dGBkN7HRxrrbquy1Rit9UMPv9rbYjBs=,KiAAI5M=,2007-09-01 00:00:00.000
+Main Bicycle Services,adventure-works\linda3,183-555-0111,NCIEHFdWOrgXFDd6SE817buY5XNWSBCQZlOsgOGIP2E=,eK6Wzw0=,2007-09-01 00:00:00.000
+Many Bikes Store,adventure-works\shu0,452-555-0179,zn3Nk0+i/zyvxFNh3OziN2Pxa3NfiIlVMJ9Ox86ytao=,5MZXwF4=,2006-09-01 00:00:00.000
+Metal Clearing House,adventure-works\josé1,290-555-0196,6p4SZnWdWPrBclHkaWFeooblNWE+Y4VJiuTM9hyonDI=,HaDRSbY=,2007-08-01 00:00:00.000
+Metro Manufacturing,adventure-works\josé1,737-555-0163,gCWE10xc3haq9E82Ksvg2GS6WBBD0H0ZF25YAS0CfJ8=,qxbTTkE=,2006-08-01 00:00:00.000
+Neighborhood Store,adventure-works\garrett1,394-555-0176,QC+He1HXF5uNbU5XqduVyZW0SlvdnAE2jhuD/06ukjE=,Uifpoxw=,2006-08-01 00:00:00.000
+Outdoor Aerobic Systems Company,adventure-works\jae0,1 (11) 500 555-0122,0d3F0pfNxXFKEufM738j3/fA0at2eUlZA8ibqRnMr7M=,6fOTb8g=,2007-08-01 00:00:00.000
+Outdoor Sports Supply,adventure-works\pamela0,107-555-0132,dI+A6Ikk6Eh9ypKYxrAEHGdSxjzUhy8bEyDdFjggW9g=,09k9Tis=,2005-08-01 00:00:00.000
+Parcel Express Delivery Service,adventure-works\david8,162-555-0166,jIw8zSChmDX3xmVInKUV46U77LBgW9C5vlIMvK4NqF8=,J9DNyhU=,2005-11-01 00:00:00.000
+Paint Supply,adventure-works\jillian0,358-555-0188,6lcVqEc4gGgfW6DsOks/KuDIWIP5qFsrc8sXtmcwj6E=,DKu7/UM=,2005-09-01 00:00:00.000
+Out-of-the-Way Hotels,adventure-works\jillian0,265-555-0190,I2HiduC1LR4LnxkLk1SFZ0OCyPveKfbQ6Q4mjKnPiyA=,PJEpZaA=,2005-09-01 00:00:00.000
+Mechanical Products Ltd.,adventure-works\shu0,128-555-0148,Ioh5Ss2cXrUAI8DZcSkQ/z92aEmHE0Wxqc6MdggjJQE=,MjQeaAE=,2006-08-01 00:00:00.000
+Preferred Bikes,adventure-works\linda3,819-555-0186,9rOycZRxDntXWB8Y/285x4HS6G2ATNOzhqIhF+oBGqc=,BsI2IB4=,2005-08-01 00:00:00.000
+Reasonable Bicycle Sales,adventure-works\shu0,996-555-0192,Re4KikAJLZeLX+pM2Bw7HZNkd5Yyd/vrGB7WhjbYmCo=,lGI5cA0=,2006-08-01 00:00:00.000
+Refined Department Stores,adventure-works\josé1,814-555-0130,8x6bpv0tFDausfY5Z8RQwPKRz3E+N1BszPMzVAsq5kg=,5NcSbeg=,2006-07-01 00:00:00.000
+Requisite Part Supply,adventure-works\josé1,644-555-0114,pd7lPYE+Gn7QnX4l6aMxG6WiRZGpPVsBcJ1kBpXl7pc=,MAOhXKA=,2005-07-01 00:00:00.000
+Rewarding Activities Company,adventure-works\garrett1,752-555-0185,oR9ACW0ZX4v6zBa57CfhePKM1qmHjgDwNdGaTDAp4io=,966Lz4w=,2005-08-01 00:00:00.000
+Closest Bicycle Store,adventure-works\jae0,1 (11) 500 555-0173,3nXek8BFNaBhIi8CwSzQOVdo1ZthphI3kGbZTrt6jNM=,/rh9tFs=,2007-09-01 00:00:00.000
+Scooters and Bikes Store,adventure-works\pamela0,810-555-0198,tTeR7tEh6XEQtr0WQ2eXrHrqjsOt2mdihjWZ3c4q50s=,IrqLpXQ=,2005-09-01 00:00:00.000
+Sports Commodities,adventure-works\david8,646-555-0137,d3uGruCihzt7+Dipsh3+fE3iZd/uKCf8sy56xa5chxU=,zmqmiAQ=,2005-09-01 00:00:00.000
+Stationary Bikes and Stands,adventure-works\jillian0,138-555-0156,AT0SeSL9gTlDL0/MHFMEy5GrEjR12DBF5ag/cyHZpJY=,l32Vf08=,2005-09-01 00:00:00.000
+Specialty Sports Store,adventure-works\jillian0,556-555-0192,2WMJfIzZjrB1xeQtjtSTUQfxxeowOV9LmAjmUkH/qP4=,A+rOrG0=,2006-07-01 00:00:00.000
+Rural Department Store,adventure-works\shu0,716-555-0167,ZIXjFmD2T/Gf9bPHIkx7X82eU+I86/8p3rmYxWqwtkQ=,BUBjqIQ=,2007-07-01 00:00:00.000
+More Bikes!,adventure-works\linda3,354-555-0130,QFcESEnv3fd3s0KxftaNIRbKv6ba7PNXWLVrlx/mrF4=,WVm7PpY=,2005-09-01 00:00:00.000
+Mountain Bike Center,adventure-works\shu0,136-555-0134,Tp1Zre+rOA0pmlkyosHvuAxhbMWt7UcvCPrAYmXyI+w=,GdsdWsk=,2006-08-01 00:00:00.000
+Up-To-Date Sports,adventure-works\josé1,979-555-0163,056V7iOc8FPUiLanlyEqQX6cAWuL0TJ8fQBhX7mEjMU=,b96sfSU=,2007-08-01 00:00:00.000
+Urban Sports Emporium,adventure-works\josé1,383-555-0111,GZyRS1qyQMxNWXYf0B1uj2nyQjhk4oN+Qv3geEMUy5A=,94SS2WQ=,2006-08-01 00:00:00.000
+National Manufacturing,adventure-works\garrett1,493-555-0134,heRwLFQMae6Y0X7+Q7tLrq4gB5sXd8jC7uiIjXlEs6Y=,OHu+9rc=,2005-08-01 00:00:00.000
+West Side Mart,adventure-works\jae0,1 (11) 500 555-0120,LDoJwsGCFLtxVdbdQBbN/to7zFF1skP+hWLrIrCxvAw=,NuexV8w=,2007-09-01 00:00:00.000
+Travel Sports,adventure-works\pamela0,247-555-0197,DgTXKBbRFAv0jGUCn8yCPgnYQP1JhhVioFj9E1gXCS8=,jcMXc0w=,2007-09-01 00:00:00.000
+Vintage Sport Boutique,adventure-works\david8,464-555-0188,dBvr8YSJ5D5BzBQ6uCOKmYVG2wDeIf97H4Jh3ePPYHM=,IS71rL8=,2007-07-01 00:00:00.000
+Westside Cycle Store,adventure-works\jillian0,119-555-0144,4QoOmH+4/mabhuXqIQnoVm+1MjvTYyAHid9vpNehSxs=,sA8S2v4=,2005-12-01 00:00:00.000
+Town Industries,adventure-works\jillian0,803-555-0116,sbrtAXJY79C5nTfNaktfR5zn9+uSLMSL26NETFSeEas=,UUwXzgY=,2007-09-01 00:00:00.000
+Trendy Department Stores,adventure-works\shu0,273-555-0111,HfjBjq3HyrYM/vkKe/z2JUvmTeROuQWy7ntzIG/uTNk=,ke7sTgo=,2007-09-01 00:00:00.000
+Two Wheels Cycle Store,adventure-works\linda3,397-555-0144,9HEZAYB77VjHRd83ZDP94/ugDP0PhvUiIRCi3Cl5y7A=,j6Z6ny8=,2005-09-01 00:00:00.000
+Security Racks and Locks Wholesalers,adventure-works\shu0,699-555-0183,y3YyySPHg7l+/+LZkIFmyZ7gE+BOIOdPEq+t+oE093g=,4m5UYgM=,2006-08-01 00:00:00.000
+Rapid Bikes,adventure-works\josé1,316-555-0138,B2RR480ridZSqURXY3APlxFk13GITW6LDFutGbpSUIs=,5MEUKYU=,2005-09-01 00:00:00.000
+Red Bicycle Company,adventure-works\josé1,667-555-0112,hAXpzsxtYdB4R3XMc08m98BwHHvL0+J6J+y0u7B1ngg=,ycYA+jA=,2005-07-01 00:00:00.000
+Machines & Cycles Store,adventure-works\garrett1,292-555-0128,61UcbVZnGT5eqxs0oFMv4JyipeaQCUZgUZkPgtVNBDo=,7+I+4k4=,2007-07-01 00:00:00.000
+Nearby Sporting Goods,adventure-works\jae0,1 (11) 500 555-0176,XrcuygOte7eGdTleJOKDmf/XBySqc/0xVbjpIPzMWQA=,R273GbA=,2006-08-01 00:00:00.000
+Front Sporting Goods,adventure-works\pamela0,119-555-0195,7dnLSdRuWFKBMjmORanIkwGVy3smf5yZI3YxSSyd5/U=,jH5dJh4=,2006-08-01 00:00:00.000
+Demand Distributors,adventure-works\david8,799-555-0118,BXs/jMkqmCMJn6V9vWS+iM7P+R0MGu2nmP4SLrJrYCg=,OSnERUk=,2006-06-01 00:00:00.000
+Discount Bicycle Specialists,adventure-works\jillian0,426-555-0181,Wkqdm53a0uim7B/e9+IT0I81uzxMNnh1FBaeXd3nyP0=,3tT/ffQ=,2005-11-01 00:00:00.000
+Elite Bikes,adventure-works\jillian0,380-555-0116,MO2kc8uiSARHp+gxFShJchORmBfhfAz+NC31TDVciS8=,QXbFwBQ=,2006-09-01 00:00:00.000
+Eighth Bike Store,adventure-works\shu0,785-555-0163,qnzSZKGLMJiDzrH9h5VfDojb/pTtQKfZNc7nW7qzQ90=,dPOi278=,2007-08-01 00:00:00.000
+Another Sporting Goods Company,adventure-works\linda3,661-555-0168,oDFb9hjhU08th9xeH9bRAY/U7JJTdaLY9NiegJj3vzk=,60Z0AcQ=,2007-08-01 00:00:00.000
+Commercial Sporting Goods,adventure-works\shu0,132-555-0150,NRM1BXnt0/4EDaPuM5qday+BOZANEisKCyGGQqJxXpY=,ewV5lII=,2006-09-01 00:00:00.000
+Wholesale Parts,adventure-works\josé1,674-555-0187,FJJVccEFyVV8NubSxOFblRtnKqQD221f9AT9xxYTOUA=,8ju6sOA=,2005-08-01 00:00:00.000
+Transportation Options,adventure-works\josé1,257-555-0119,muiJ85PHJTw5ocOM+yS+gq+w8REzzCOfzXZNFyDZniI=,lUNnQso=,2005-11-01 00:00:00.000
+South Bike Company,adventure-works\garrett1,206-555-0195,o02Imw+gyZX9J1yiTBKYD4M5XlerPqz3usX+v3CsDHA=,PZCGT2g=,2007-08-01 00:00:00.000
+Riding Cycles,adventure-works\jae0,1 (11) 500 555-0114,26rwIeR9oyfo+P6lodeASP/MAC2/tdKFbmFVC5uBRmA=,83inWt0=,2007-09-01 00:00:00.000
+Raw Materials Inc,adventure-works\pamela0,962-555-0166,mBQHYK00pq9+tDgH7TR6fPrrYQ2drX7/VuuHgkUSOiQ=,MxiyX14=,2005-08-01 00:00:00.000
+Latest Sports Equipment,adventure-works\david8,340-555-0131,kOabrc0OqOISR4N3D3FZkOh3yAKQCF/ozSx7G00Kpt0=,jpRF8lY=,2005-07-01 00:00:00.000
+Local Hardware Factory,adventure-works\jillian0,221-555-0141,ZZhnNULC5d/7tZv0hUtCl4jKwgyZql8aSrIzlTaTvg0=,hGHOthw=,2006-09-01 00:00:00.000
+Lots of Bikes Storehouse,adventure-works\jillian0,494-555-0134,t9ecYoVIOcEiyXvl+noHoCymcRlJij1fzZzXfKeZ/R0=,6ZoXk8E=,2005-11-01 00:00:00.000
+Initial Bike Company,adventure-works\shu0,229-555-0114,fftjn+fbjvHFJ4bf7rTpLdlCHv61xF+y0ZPKKevQV98=,OzSaq2k=,2006-09-01 00:00:00.000
+Fleet Bikes,adventure-works\linda3,927-555-0198,Vlb2fj7yW2d5JtfPLZvbicsQNEgLhh0b93Uw2pLEBuE=,2cMmc9Y=,2006-08-01 00:00:00.000
+Futuristic Bikes,adventure-works\shu0,163-555-0155,NN11OHHxrOm6r8lPyhXuBk13QMD+8tph5PIdJ4t0JmY=,PiILPfc=,2006-09-01 00:00:00.000
+Camping and Sports Store,adventure-works\josé1,193-555-0116,GJhY98QoDTRmv/6f6RcLwoj2v33jAZopR8AjLor/sqc=,fYgdeM0=,2007-09-01 00:00:00.000
+Corner Bicycle Supply,adventure-works\josé1,180-555-0114,NLAR7H8spiCb/C0qY+3qkJm3VuoSOqDw7yspRc1CTTg=,Whn5BXY=,2005-09-01 00:00:00.000
+Metal Processing Company,adventure-works\garrett1,844-555-0112,+CFHIbYlE+nsmSbCpJOTLZXChbtYA9JzdSnd1Qejk5g=,w7ec7iI=,2005-09-01 00:00:00.000
+Vigorous Sports Store,adventure-works\jae0,1 (11) 500 555-0178,20rlqqjWOPLBi7oYKBrHMzouHcYl6OknJcV+yc0zQKo=,QS6UTS4=,2006-09-01 00:00:00.000
+Sports Merchandise,adventure-works\pamela0,644-555-0111,Eo1pvctUvdkRpUgGHwOfILlh5uZiYuLv+eBXLj1viR8=,LCi+QgQ=,2007-09-01 00:00:00.000
+Suburban Cycle Shop,adventure-works\david8,706-555-0140,C7FdyTzpzS44mEsqgDG4s8S3CZJtl+yiy9sH4rEI9VY=,M4cce8o=,2005-08-01 00:00:00.000
+Third Bike Store,adventure-works\jillian0,383-555-0117,UsXZ9ElCaZBo0YED9A2khFNGjNK+8yHdxnraI+OHsZ8=,oMeb83g=,2006-09-01 00:00:00.000
+Fitness Toy Store,adventure-works\jillian0,351-555-0131,u/IE2VGaycl6iSw+8Es0ro5F6g//TK/eJA3ICMBHXmc=,n+71V7I=,2005-07-01 00:00:00.000
+Farthermost Bike Shop,adventure-works\shu0,156-555-0187,9E6RJtJrsu2iqMbyKMJRaVfPipCW5XObegb3KE3K85M=,hiSI26I=,2005-08-01 00:00:00.000
+Economy Bikes Company,adventure-works\linda3,688-555-0113,fOnF7T/vMnI6uJzH1IxN9lcM8z31odelgSIW9Vu8sD4=,dz8Ej6A=,2006-09-01 00:00:00.000
+Downtown Hotel,adventure-works\shu0,147-555-0192,84meSWqxRT9guwZSihzP3MYe7UV2VaMLBldOf8pTy5A=,lsd099Q=,2005-09-01 00:00:00.000
+Certified Sports Supply,adventure-works\josé1,835-555-0116,6eApe0lB1ZkvyJB3Uo3LaYGV8sm2/NE9fUHXM7a0RYU=,M8SoIWU=,2005-09-01 00:00:00.000
+Sundry Sporting Goods,adventure-works\josé1,722-555-0169,hynkaEM/LxC86JGG4q4AGgiar6iWoIu5bLVB3gFq2RM=,DUDd/5g=,2005-09-01 00:00:00.000
+Toy Manufacturing Inc,adventure-works\garrett1,838-555-0147,OaSaJ/wRTB0DFRe0vMDnhW8BPYsB0r2Stk5dzsBWusI=,G5ADims=,2005-09-01 00:00:00.000
+Rampart Amusement Company,adventure-works\jae0,1 (11) 500 555-0193,dI9bbaCIElCUwy2PYLUYLNIrdM9yCcuTmHspqw8Wsxc=,FihOX8w=,2007-08-01 00:00:00.000
+Full-Service Bike Store,adventure-works\michael9,264-555-0164,weDREfIdFEInQXlEuUK3AjoRiqGR7g2cJQHBZ1BT5xw=,ggpF1Og=,2005-09-01 00:00:00.000
+Family Entertainment Center,adventure-works\pamela0,396-555-0139,A6RveLbS4qIaP/sOesBWwK7KlcShNP0N7DDN2VRWxYk=,vhvGQUE=,2007-08-01 00:00:00.000
+Another Bicycle Company,adventure-works\david8,156-555-0126,uzR3iWUJwdMRenhBxExmLfmCRPenWgwazHnSEPDbzb8=,kj/7VTw=,2007-09-01 00:00:00.000
+This Area Sporting Goods,adventure-works\jillian0,344-555-0181,3LD/Jab7lP6gIPvK5EdTnwhHBo+dxs3y9GbIgmN6E8Q=,BG6Ps64=,2006-07-01 00:00:00.000
+Go-cart and Bike Specialists,adventure-works\jillian0,306-555-0166,viR4W7eY7DDH81eAFhdKTb8Hft5EM8K5CcxdoPdoqgs=,ZcFvFFc=,2006-07-01 00:00:00.000
+Weekend Bike Tours,adventure-works\shu0,495-555-0113,Rrgza3uGhmNF9StSEGpXIJ5moVVsmcjhGDjdCAPyMnc=,ekE0M9I=,2007-07-01 00:00:00.000
+Thrilling Bike Tours,adventure-works\linda3,789-555-0184,UVTWGfYZBU+ZmXLqhvqZFDwYXdtX14O87KHOHN36XDc=,pI/k4Qw=,2007-09-01 00:00:00.000
+Trailblazing Sports,adventure-works\shu0,491-555-0132,XKb/GbNNUPKesifxpBwavz3wz5Y3jbFPJgsBIVEFvO0=,/9h1e7s=,2005-09-01 00:00:00.000
+Racing Partners,adventure-works\josé1,371-555-0112,Lk6x4lbbepoCdlNUxLYjn6D3zCWVxEKiK2DwxCURAis=,s7z2FRc=,2007-09-01 00:00:00.000
+Non-Slip Pedal Company,adventure-works\josé1,303-555-0117,d8QmW8XwLDvVvz9RYBNkv59Snnfp3tdnQQ/IZ0UEV9U=,FccEr0Q=,2005-08-01 00:00:00.000
+Nuts and Bolts Mfg.,adventure-works\garrett1,117-555-0173,iwlZhoYS98IRDbB9ps/YqC5ITCR+AZm5L+5g5nqHzE4=,okCr0j4=,2005-08-01 00:00:00.000
+Exhibition Showroom,adventure-works\jae0,1 (11) 500 555-0126,qUddcyDDhMORzm2Tp3YcC3vD7dXKgTEDtTorjPbhbmk=,C2IP7to=,2007-07-01 00:00:00.000
+"Fabrikam Inc., West",adventure-works\michael9,224-555-0126,IQvtwGrIwRDX9ZHmv+WXAmqiXokkD7MT/x8ZdSBArjo=,6xHx1mQ=,2006-09-01 00:00:00.000
+Field Trip Inc,adventure-works\michael9,528-555-0183,FnBp23EtjoS2hj7nCcr9a76vZjNvQ+/WT/5vyYyKG5o=,TYGH50Q=,2005-11-01 00:00:00.000
+Authorized Bike Sales and Rental,adventure-works\pamela0,947-555-0143,LoVploOms9pM4zQpIHQdGFLraQGd2ZtmlhGCKz8RxZk=,1PXmt4Y=,2007-08-01 00:00:00.000
+Basic Bike Company,adventure-works\david8,170-555-0189,C4CbjWP+J+L/5D9jekqIDsijBR8VvJlpu7IxqSE3ckI=,GR7idhc=,2005-07-01 00:00:00.000
+Unsurpassed Bikes,adventure-works\jillian0,789-555-0189,POpWTovMrdUJmLS24NDBdrrY5tasoVlQod5uB56k4YM=,Jx6w2tk=,2007-09-01 00:00:00.000
+Two-Seater Bikes,adventure-works\jillian0,645-555-0193,M2iP88O+gIF88E9NpBhI0baOUusaGXrum+clJ/miHO8=,6UypM3o=,2007-09-01 00:00:00.000
+Separate Parts Corporation,adventure-works\shu0,207-555-0129,Fz+NYcaaq3h6DqGHlfln+rg8Acm2x1ZGxvEayxBvctA=,RqNfsHY=,2005-07-01 00:00:00.000
+Traction Tire Company,adventure-works\linda3,973-555-0112,miuh5Po0s3jNnKrMwmuROEApoKFRWumb1K1EMP0hGB0=,TLqFgK0=,2005-07-01 00:00:00.000
+Rally Master Company Inc,adventure-works\shu0,171-555-0147,om5PZqKM1Q45cWiYPIrXl/Aae/JkbppbhDiC35ExpI8=,6YiQ2V8=,2007-07-01 00:00:00.000
+Professional Cyclists,adventure-works\josé1,154-555-0115,yFi3yGOATh6SBDVcA2+76Fx57aewXlckixsLIK6rBQ8=,WWk6sxA=,2005-08-01 00:00:00.000
+Purple Bicycle Company,adventure-works\josé1,595-555-0131,P7kS2qmv24u6DHt3T4KoKJ6+3pJpWEoMKQZVPpaRlmo=,c0oPTcw=,2005-08-01 00:00:00.000
+Gasless Cycle Shop,adventure-works\garrett1,584-555-0192,bskaXdzyt3OUpHetBO/IcD+SDhG5EyMDjtlYBlgd5JM=,m3KdhOo=,2005-08-01 00:00:00.000
+Exclusive Bicycle Mart,adventure-works\jae0,1 (11) 500 555-0175,7Rt3EiYjLXevQHTKMCMAavZEDngeIlBpAJZwplBW0G0=,M6OjY4Y=,2006-08-01 00:00:00.000
+City Manufacturing,adventure-works\pamela0,642-555-0187,ixajZho2s3ev/ogNQ9FUe1TyfA9yX1aEVWDOy/mdUAU=,k3iiros=,2006-11-01 00:00:00.000
+Sure & Reliable Sporting Goods,adventure-works\david8,476-555-0139,tw+fIchafvuaOuwyEXmlXbPr9Vt3EILylHlmwfm6Gig=,0fgKxF4=,2005-08-01 00:00:00.000
+Extras Sporting Goods,adventure-works\jillian0,320-555-0134,TGnRB6vDbV0LZss8tA9iu637/34mcJWkD0Ux4xaza/k=,2t9hMlk=,2007-03-01 00:00:00.000
+Best o' Bikes,adventure-works\jillian0,575-555-0189,WdS3xcgtqW4nnV7dyZ17PmiMPZ5vKs5whm3ANBVQ1sQ=,mQK+bIw=,2007-07-01 00:00:00.000
+Bike Dealers Association,adventure-works\shu0,993-555-0179,iPjYe483dSgp0POtxsJVNCcegR3PdCK33L1Elr6F14w=,CqQEYuw=,2005-07-01 00:00:00.000
+Sample Bike Store,adventure-works\linda3,858-555-0140,lepgCpcuzDRNfqPaAgUacRzPVGGXHwiRm7wwJ4cNgBs=,lkPNcdI=,2005-09-01 00:00:00.000
+Paints and Solvents Company,adventure-works\shu0,458-555-0179,HdGP+FhhGf8dYBcwT4pIsPs6mdixGxg1UVN0kMtW2Jk=,XdEyqf4=,2007-09-01 00:00:00.000
+Leisure Activities,adventure-works\josé1,103-555-0151,SjhcbJpcpaWw4QjUCmjWLcY825LVBVxAVlKUVRGVC/0=,Tb+oJnk=,2006-08-01 00:00:00.000
+"Health Spa, Limited",adventure-works\josé1,431-555-0153,fLh6z9dFddA6FLXlQVHhI5C9QbgD7gDHv63wFwwLzx8=,OtAJEtc=,2005-07-01 00:00:00.000
+Home Town Bike Store,adventure-works\garrett1,356-555-0190,b0w+/GVSsenvVoXksIyrBh+BGRKEIsId9aOsMDCOZi8=,W1IKTDo=,2007-09-01 00:00:00.000
+Exceptional Cycle Services,adventure-works\jae0,1 (11) 500 555-0140,FGdnPYTMqac/OnHuvpZH+gBqo30RCSqFL8kFsXLMOlI=,AnSCCJw=,2007-07-01 00:00:00.000
+Certified Bicycle Supply,adventure-works\pamela0,344-555-0133,y0iroPvPC4eEspx+3ldDYTXprGyXnnCpLGd3uXHr/+A=,F1wnUPk=,2006-09-01 00:00:00.000
+Closeout Boutique,adventure-works\david8,173-555-0151,FA9j5YePslFGxxwINV2WNFLdtlbCtTK0YuF06zPc16Q=,ojfzrl4=,2006-08-01 00:00:00.000
+Client Discount Store,adventure-works\jillian0,658-555-0146,ChGbWjf0h+VNc991cHR4FwJMGxeHxuYSeKVPflcq7wc=,dt/JUB4=,2006-08-01 00:00:00.000
+A Great Bicycle Company,adventure-works\jillian0,652-555-0189,PSKz4q56IqL3q9GPJjYwAKKz2sFtFqkN9n9dfiu1q+0=,F/sb/Xc=,2005-09-01 00:00:00.000
+Bicycle Merchandise Warehouse,adventure-works\shu0,529-555-0195,ZoY0+khcW5IFNHszZdW3+g5b7xWZLakfBmLzPRGtfpI=,cpPYnNE=,2006-09-01 00:00:00.000
+Wire Baskets and Parts,adventure-works\linda3,103-555-0179,9EmEkovAOZzHdTYAXrsu3h3xgAvhMbHSs9Q8N+/CWao=,mgl/qso=,2005-08-01 00:00:00.000
+Vale Riding Supplies,adventure-works\shu0,703-555-0120,KONBZCeYvjn9uAVeRFeN0CzMQcKJjrofhFrGTXAscDI=,3V8BWNc=,2007-07-01 00:00:00.000
+Retail Discount Store,adventure-works\josé1,697-555-0131,qD4cGE0DTDO7V/k6mu0nvfAt3rfbx4PQyYjp43hn+ik=,rLOroU0=,2008-06-01 00:00:00.000
+Leather Seat Factory,adventure-works\josé1,191-555-0151,7fCBS9M7J3qJvmN3sgO/fbT2ap3vnYQ/k+fKjaHYP/0=,r9owTtw=,2006-07-01 00:00:00.000
+Large Bike Shop,adventure-works\garrett1,481-555-0131,70nGUIq7rO630L2/dv94XQ4HE2WWDpHISgy2OgtRANo=,HQA1TJE=,2006-07-01 00:00:00.000
+Express Bike Services,adventure-works\jae0,1 (11) 500 555-0127,RJeObGR0plv36VFq0yPWZGwFUAeTDIWG4sJppheOSaM=,mZ4Tbi0=,2007-08-01 00:00:00.000
+Roving Sports,adventure-works\pamela0,116-555-0163,qH31PnQBwyUFQKdjw4bJmkw4mcqJUwRlENuk3bHLNx4=,xAk6xGo=,2006-07-01 00:00:00.000
+Safe Cycles Shop,adventure-works\david8,449-555-0176,uNz2P7Jd7t3y2Neqi3NsRS7m0blEPSm/j3sOdXpJ7aw=,G5Du9Sw=,2006-09-01 00:00:00.000
+Swift Cycles,adventure-works\jillian0,184-555-0187,agm2RVYpEMjc+OpNxGG7gujHre5Wv8c+QcQgm6orG2I=,Yqlwc+g=,2005-08-01 00:00:00.000
+Rental Bikes,adventure-works\jillian0,367-555-0124,h5MoUod8rV39hjm6vrOX+iiVre1Alla8UfBtwIodbOg=,B/Jr1SE=,2005-08-01 00:00:00.000
+Number 1 Supply,adventure-works\shu0,384-555-0169,PGmZaBbqtByrVs9jYLcigdjJ5O29jcKmsdbRwANU3WQ=,6Mzfp8w=,2006-08-01 00:00:00.000
+Quantity Discounts,adventure-works\linda3,767-555-0193,S71ozp3yMBzUJk7fj4M8SRU+dElVKuXvieJDpDOvVv8=,iKVyEt4=,2006-08-01 00:00:00.000
+Highway Bike Shop,adventure-works\shu0,199-555-0135,YodKwREGttzzQZXSLkjMe6ipm+9hE2yzBmAYNlj3qKM=,7hC00f0=,2005-08-01 00:00:00.000
+General Industries,adventure-works\josé1,718-555-0152,F+vY3tSf0ZDAiQakfFA7yxIP0M8ljrI5oYD1F1iZt4w=,H5fjp4Y=,2006-09-01 00:00:00.000
+Farthest Bike Store,adventure-works\josé1,251-555-0172,lYPMOabTmO7waFR155ZAm1jDwBg6VW2xrT6sZ1yxPio=,e8KtQ70=,2007-08-01 00:00:00.000
+Fasteners & Bolts Outlet,adventure-works\garrett1,277-555-0182,95PLNarmtKePNK2WYvZZ8U/arYSs9EJoBoh2P7GHCCs=,MLAW5PQ=,2007-08-01 00:00:00.000
+Channel Outlet,adventure-works\jae0,1 (11) 500 555-0138,adQ3TmZB28FhQvF2FntW1RInx5S+aOSvwpURQDLarr8=,KoBtEoU=,2007-09-01 00:00:00.000
+Alternative Vehicles,adventure-works\pamela0,164-555-0147,HpDMv2bnK4/qDUMQn8+csux9vDdycGo7vFyJ5y4Vh/Q=,NbybY4k=,2005-11-01 00:00:00.000
+Metro Cycle Shop,adventure-works\david8,635-555-0126,sk3ylc8GdTAWxH2DM4cy8rLkoHXK7tIeMWUl3VNm+Bk=,2NEGr8A=,2005-09-01 00:00:00.000
+A Typical Bike Shop,adventure-works\jillian0,686-555-0180,VWZMnmAlCwxvJOjzebXyjCeFgHg6VcKqDb6g/BJXULc=,/tv9aHA=,2005-09-01 00:00:00.000
+Active Systems,adventure-works\jillian0,521-555-0183,TYrGU6N0naplzEIsTHgR53UnASh8dXOYxTYOdOrI6Fo=,k1FFTeE=,2006-07-01 00:00:00.000
+Outdoor Sporting Goods,adventure-works\shu0,118-555-0131,RKimtgGoqQN8dj2KGy7mvo2DrpTK0yOpF9e6sgxyOTU=,LQWSses=,2007-07-01 00:00:00.000
+Thrifty Parts and Sales,adventure-works\linda3,308-555-0175,Gdklarx2tW1EtZEyrAUEIhhguzrFKVS4Bh3BdAsGngk=,HUE+JKI=,2007-09-01 00:00:00.000
+The Bicycle Accessories Company,adventure-works\shu0,583-555-0198,YMhZzdS3NtxXPsz/PPksfdYWIvhuoemim9KoDsx20cg=,rQoQs38=,2006-09-01 00:00:00.000
+Standard Bikes,adventure-works\josé1,692-555-0136,Vf9lyf+xKSbSXq9yAcMEF9niZm29wvPV9e9dU9sYQVc=,6ansEQA=,2006-08-01 00:00:00.000
+Petroleum Products Distributors,adventure-works\josé1,990-555-0141,aQhg/A43Nq3pqIBjcyPBvjQ7qXHAckVwm6FjAZCx0nc=,RpQyjlA=,2007-09-01 00:00:00.000
+Quick Parts and Service,adventure-works\garrett1,882-555-0115,tSfXgpVAnQ6TL8XxnK0PMKR2Ngn49a0253VcVtcV6QQ=,V1n+9SQ=,2007-09-01 00:00:00.000
+Number One Bike Co.,adventure-works\jae0,1 (11) 500 555-0169,x78xcW0FvKo3V2RvMGf37bcWhb50vMZ22IuaZcu+qmM=,abrUsFg=,2006-07-01 00:00:00.000
+Handy Bike Services,adventure-works\michael9,859-555-0173,nkkvhNgGMBN5JS2w3ewyvV4KCwrTMYC4+yoS/4hIUok=,fqDHYeo=,2005-08-01 00:00:00.000
+Kickstand Sellers,adventure-works\michael9,241-555-0112,q8JpThg+EEoLRrvqBMW+Wa0RbFcCIfVIzYcGGELEOdk=,cdUS/K4=,2006-12-01 00:00:00.000
+Moderately-Priced Bikes Store,adventure-works\pamela0,763-555-0145,hW0+tFeNNdvPsnKDuHc6OmH0bCdD2kCfpU6qVvIjdPs=,fjVy+G4=,2005-08-01 00:00:00.000
+Friendly Bike Shop,adventure-works\david8,119-555-0167,Xf7AJHcry+LouddJR3dIGHjo8du8EO+214E81gPafj0=,rXx8clQ=,2006-07-01 00:00:00.000
+Grand Bicycle Stores,adventure-works\jillian0,640-555-0189,W6e3zjP9/VTWIVDfWOJ7/sdwfvSP0qPkcRJ1pTa249I=,mv8CSkM=,2006-09-01 00:00:00.000
+Grease and Oil Products Company,adventure-works\jillian0,126-555-0172,5QCj8NIegcVaNIwAHhbulqzIKzgsgpVptbr8vMjvY9Q=,8L4g3I4=,2005-07-01 00:00:00.000
+Fashionable Bikes and Accessories,adventure-works\shu0,115-555-0113,/yVQQacXlcqZVH6x20kKCxCJ+sP4EjmPQXwwwInfNH0=,vJ/AcXo=,2005-09-01 00:00:00.000
+Flawless Bike Shop,adventure-works\linda3,780-555-0114,7Pu+s7FYZ9ERNs/++8Bd+aj1rUALff6EuUnG0Xi+5f8=,L1e3Y34=,2005-09-01 00:00:00.000
+Engineered Bike Systems,adventure-works\shu0,129-555-0164,7obarvC3BHLIE/oFo0n+bkB/EZ03Zc8Vu+F2jpK/CNM=,k6zgROU=,2007-09-01 00:00:00.000
+City Cycling,adventure-works\josé1,239-555-0198,vCVsOjGm0KyeirgUeD9DQYxoh13CXTJAA03IytWGrhs=,mQH+E8w=,2007-09-01 00:00:00.000
+Citywide Service and Repair,adventure-works\josé1,680-555-0192,i+ukExAQLOnEpQFQLme/QYR8w6kME+/MdykXoSxwgFI=,FooiQMs=,2006-07-01 00:00:00.000
+Nice Bikes,adventure-works\garrett1,221-555-0167,bnDkCXU7YCA05COiVJst0pMlaJtfAK0H8pgniBfLooM=,oOIbGSo=,2006-09-01 00:00:00.000
+Essential Bike Works,adventure-works\jae0,1 (11) 500 555-0182,LJhS2DW9IscOBidp+dn6JWOa8axqqpEw2XIUiUMRKVM=,hrRF3s4=,2007-09-01 00:00:00.000
+Work and Play Association,adventure-works\michael9,818-555-0171,m79YsPy3BDp4/SUQsvNcbTQuyZxUGV9TuBeHcAHjZCk=,F0hRcQ8=,2006-09-01 00:00:00.000
+Riding Associates,adventure-works\pamela0,992-555-0134,xUl8Ag905RQfEG81+mYFO378kfiUUFE0TsYSJ1+rU9I=,ru6E/qg=,2007-08-01 00:00:00.000
+Rugged Bikes,adventure-works\david8,839-555-0198,G6BHmDa5WKyDUTzHeOszC8XHrN8wPjUM76UTZb39tWc=,BNNUWH4=,2007-09-01 00:00:00.000
+The Gear Store,adventure-works\jillian0,149-555-0113,AJwPH2IQhCHW77xtUnJh0G0EXqA11PsPLRRuSQK+K9U=,ZXH0EUg=,2005-08-01 00:00:00.000
+Orange Bicycle Company,adventure-works\jillian0,118-555-0184,h7ho5pw1ypORUO13IMzogsDDW1C9bUTmGWsz06Xax8E=,n/q5ims=,2006-08-01 00:00:00.000
+Principal Bike Company,adventure-works\shu0,551-555-0155,BrhebOErAX2tbZ1LZxAb8hwE96ZdIjikETxIsIKfpLw=,v5pJpw0=,2006-09-01 00:00:00.000
+Resale Services,adventure-works\linda3,226-555-0146,8ml/xroz0hroeUDl/KW2y2QlIIgHgygotLw0Md60cBY=,hXYQBis=,2005-08-01 00:00:00.000
+Metropolitan Manufacturing,adventure-works\shu0,140-555-0192,kE/AZF2xtlVStSAI51sBwnA1CENgrWppF3qD5KxBdVE=,q1lJvKo=,2005-11-01 00:00:00.000
+Low Price Cycles,adventure-works\josé1,207-555-0167,d8+17xmtxYv0ovo+dfdJCIe7zpoChbE+X4f+gQrPU3A=,6CMCzUQ=,2007-08-01 00:00:00.000
+Finer Riding Supplies,adventure-works\josé1,767-555-0151,afWrNdx+a97zBy+NoV2h3JgMyfVCLmD1FMz7OiwtBRQ=,KVVlFXY=,2005-08-01 00:00:00.000
+First-Rate Outlet,adventure-works\garrett1,277-555-0169,l3pyVEyTaWqsF1xRfSXtR2CgCOfOXQCSumdlzqMKLxQ=,BX3pcB8=,2005-08-01 00:00:00.000
+Tachometers and Accessories,adventure-works\jae0,1 (11) 500 555-0176,/hDOTbr9X/E4UE8H6wjOGHYZ6Gb8GDpmutPWgFTXQnc=,eiCRDs8=,2006-09-01 00:00:00.000
+Metro Bike Works,adventure-works\michael9,689-555-0130,KZaaqy2YCpxZaXM7rzYJyuNkw9w+wWoUaL5P6Jdyzpk=,T2lZOPo=,2006-08-01 00:00:00.000
+All Cycle Shop,adventure-works\pamela0,918-555-0127,2LMYXdm0nvmWcT+Md+NaYmfIPgdmP0R2PiRoynq7WCk=,GNkVrfA=,2006-07-01 00:00:00.000
+Year-Round Sports,adventure-works\david8,164-555-0145,GkzDDuB6pTaET7MyM3Kpgh+sP0JyO6EvZnbS4ep3kEg=,3CEircg=,2005-08-01 00:00:00.000
+World of Bikes,adventure-works\jillian0,695-555-0158,U1/CrPqSzwLTtwgBehfpIl7f1LHSFpZw1qnG1sMzFjo=,QhHP+y8=,2006-09-01 00:00:00.000
+Totes & Baskets Company,adventure-works\jillian0,560-555-0171,UWGC2U8F7AUNA2FuiT4agrBoxAFskHGQSxqP39B7zLQ=,iES3IZA=,2005-08-01 00:00:00.000
+"Unicycles, Bicycles, and Tricycles",adventure-works\shu0,795-555-0116,dGlOTb4tIwZCoQftB0K+7CHFl/ty6hYYq/X/T1Dq6k4=,9ak86/4=,2005-08-01 00:00:00.000
+The New Bike Store,adventure-works\linda3,637-555-0120,cIKsu790VaU1891IzLoO2agtT2vvaOXkL3puAV90Zro=,7erbA0k=,2005-12-01 00:00:00.000
+Technical Parts Manufacturing,adventure-works\shu0,433-555-0168,hNQpZV8787KyeDWfllnZWzY+l8DFEYTnwoZZzYtusi0=,HDCU1Bk=,2007-07-01 00:00:00.000
+Retreat Inn,adventure-works\josé1,155-555-0140,RgzxIE8hSY/z6iJnmDYMZWdJTQBRaWKI7UaZhAPhPxY=,jYD20wc=,2006-08-01 00:00:00.000
+Scratch-Resistant Finishes Company,adventure-works\josé1,156-555-0111,0J6cl9Zhm+g4rbqJrvyshZWF72arbVNptT27ZL2QTMc=,2Ugh6Q4=,2005-08-01 00:00:00.000
+Primary Bike Distributors,adventure-works\garrett1,495-555-0161,Pe7m3z2RtNe4D8mkkCKh3/WPMsONB78YR1Kip5zJwzs=,x4UseEA=,2005-08-01 00:00:00.000
+Nearby Cycle Shop,adventure-works\jae0,1 (11) 500 555-0195,lx5a4+AFGzH6mzjz6hpiR9scxbYGX8OcqFpv/cI6yFs=,hSwmBWk=,2006-09-01 00:00:00.000
+Mail-Order Outlet,adventure-works\pamela0,490-555-0132,v0bxLRLRKYxwN8fiORyJkpXaYZpCRhgfNNkwQnylFrE=,WTZFkow=,2006-08-01 00:00:00.000
+Fifth Bike Store,adventure-works\david8,652-555-0132,ho3bUU87fZAlity/45XvFPVE/DgEaLKvI+ZW1e56rnA=,x1JqF8M=,2005-07-01 00:00:00.000
+Genial Bike Associates,adventure-works\jillian0,121-555-0139,h5QUx4zv/ilF+lJ6Pgsyd5OP92KaOJDXklOB6qbWskk=,kAdG4pM=,2006-08-01 00:00:00.000
+Great Bicycle Supply,adventure-works\jillian0,810-555-0160,VTpXtJAiSxeJraHh5mkwwAsGYMllZYzsOBpb2cu8rrQ=,FNe76Vk=,2005-08-01 00:00:00.000
+Bike Universe,adventure-works\shu0,857-555-0187,cvCHW2+xxa0C0SWtoYyn83PAIn6qI39SbK+kOK+gUGI=,6QL/f9s=,2005-08-01 00:00:00.000
+Bold Bike Accessories,adventure-works\linda3,855-555-0174,P1Osji8Ez9uYQCzuZXjnutazXvhAlWDRLjCcTcJb/Ug=,CGYtmQ4=,2005-08-01 00:00:00.000
+Exercise Center,adventure-works\shu0,112-555-0176,WH8bTbYkazE9T0ktiZYIAYDdJXsvjr2zbLiT3gxR6zk=,Zkv5OCw=,2006-09-01 00:00:00.000
+Twelfth Bike Store,adventure-works\josé1,155-555-0149,XRbPUzkzKesTrEzvftw5uMTagaFkYgTZJJlBScNp0hc=,4YXPsTU=,2006-08-01 00:00:00.000
+Two-Wheeled Transit Company,adventure-works\josé1,700-555-0155,hKb4COq5+4SAW8APMfmPmILk4cdhwtpjpD7Yx8xcx9U=,eVaIdvY=,2005-08-01 00:00:00.000
+Serious Cycles,adventure-works\garrett1,614-555-0134,8/5CuOyL4qEu4tD2KEd4x1h5OahPfcmZg9L7+F0ATDI=,qoGU2YA=,2005-08-01 00:00:00.000
+Mail Market,adventure-works\jae0,1 (11) 500 555-0144,/1zuZO01NBBN+zaoVVHAp+srLdfFp0nBmPrSBGPulOc=,jMsXQbs=,2007-08-01 00:00:00.000
+Novelty Bikes,adventure-works\michael9,327-555-0148,CkSWR0RMQArXpZJnpZgCnzSPuw3PUh/1jTmWPcrjYyM=,7xa5oqo=,2007-08-01 00:00:00.000
+Fitness Supplies,adventure-works\pamela0,390-555-0150,KQnTVrF88pDtzAwfV+7dDpsvf4FFaBRltsryZggImmI=,jZhDom8=,2007-08-01 00:00:00.000
+Grand Cycle Store,adventure-works\david8,889-555-0176,u9lXZ1SCNDVCKj0H19LBkxxmWQr7JPXmZP2LU5LZIec=,xUz/uts=,2007-08-01 00:00:00.000
+Immense Manufacturing Company,adventure-works\jillian0,556-555-0145,wGKQ72A4aSsDe2tQKUY1T1o0i/AO69PqKcMSFIponoQ=,3VRtZxg=,2007-08-01 00:00:00.000
+District Mall,adventure-works\jillian0,249-555-0179,NiUsCVv2EYAYfE2mK4VPPDgV7BXgOR4eQ4yVOvsOG1A=,Cdwoi3o=,2005-08-01 00:00:00.000
+Distinctive Store,adventure-works\shu0,539-555-0182,ao0Wb4hq67DVVcZYX2vO/mOgiZoTtJMBJzi4/wt8mrE=,7wlaV4Y=,2005-09-01 00:00:00.000
+Extended Bike Sales,adventure-works\linda3,129-555-0110,t+VbX7JvYz3GISo+HPpubYQr00RQKJLNqOx1dQdMKCc=,bwG1Wck=,2005-09-01 00:00:00.000
+Brown Bicycle Company,adventure-works\shu0,145-555-0166,NTtGPrBoJXekEg2D/ryHHVYGX/fuL0VeSrhQjzykBiQ=,3D0YsUM=,2005-09-01 00:00:00.000
+Acceptable Sales & Service,adventure-works\josé1,656-555-0173,gD2lOrxAy3p4xvTGUYnECk5ROZd03OslvHCY+XDxQwI=,/P0XMaQ=,2005-08-01 00:00:00.000
+Custom Sales and Service,adventure-works\josé1,140-555-0143,iaQDSUY3hGgPoKQBMqMHb4jSlVLSNnjgd2j2jsX9rJs=,MY+7QbE=,2005-08-01 00:00:00.000
+Top Bike Market,adventure-works\garrett1,421-555-0192,KP0aM3OevdwcZrEJTRWtCuCiSKfiPhktKN5FqHTnYhM=,yv8Jhf8=,2007-09-01 00:00:00.000
+Commerce Bicycle Specialists,adventure-works\jae0,1 (11) 500 555-0146,7OO7XsLMZcOhwoxw8KRfz/SjxQ3qCIVQqjRMtpyV/EY=,J1cVbE8=,2006-08-01 00:00:00.000
+Grand Sport Boutique,adventure-works\michael9,941-555-0155,mWVOfXPZkIFZzQA0Ilekhl49LfhS31vdOtYEmBKSIkk=,FSkdXTM=,2006-08-01 00:00:00.000
+Fad Outlet,adventure-works\pamela0,275-555-0179,FI+QpFgzPmmfZMk6bavb0AtoPMvD4CZ/+wGuwYgso3g=,B+59kWs=,2006-09-01 00:00:00.000
+First Department Stores,adventure-works\david8,542-555-0164,vcqabvDo1Fnle8WElVwwEwNwCGZKfSJvDCUVyps/SuQ=,gF7bPbY=,2006-07-01 00:00:00.000
+Bicycle Lines Distributors,adventure-works\jillian0,145-555-0194,BQF73YAE2cFDpeWDP0v7uA0/ZGhGgw1xxiMQqe74r7I=,6ZebGOE=,2006-08-01 00:00:00.000
+Beneficial Exercises and Activities,adventure-works\jillian0,510-555-0123,JM8Jl1msELWEL8AlgkQ/cej3rlO0TFq13PfmQ/bHakM=,OLqP9tg=,2006-09-01 00:00:00.000
+Vehicle Shop,adventure-works\shu0,773-555-0182,BEePqLIHwU7zsFCJQcHQ8OGm8nkvUlj8YPFAT/teYOc=,+v0uddA=,2005-10-01 00:00:00.000
+Sparkling Paint and Finishes,adventure-works\linda3,787-555-0128,266JCMNzG3Y2YOZOElwlwmjuO9HTi1S0zbkD7zdQ03g=,kCUx/bc=,2005-08-01 00:00:00.000
+Sturdy Toys,adventure-works\shu0,330-555-0116,tYV64ygQjda9WaWGc8CfVwqOiTHscX15aCHq9OPvjkw=,a2bt7rI=,2005-08-01 00:00:00.000
+Road Way Sales and Rental,adventure-works\josé1,112-555-0195,Mm7GafEB1oHJXept9uxIAGnsc2jKRzr0UgDRANPqAsI=,j/3FTKs=,2006-12-01 00:00:00.000
+Sixth Bike Store,adventure-works\josé1,428-555-0176,NEJS/vq9oswLdLNa4VH0fbwb+fgxDYIHg2hPP1fn7t4=,lnEeim8=,2005-08-01 00:00:00.000
+Plastic Parts Company,adventure-works\garrett1,204-555-0189,3/sdWTV1ScxayLuSf0nc6Wbyci2VcabsIBhV/KlQyZ0=,abgBRtE=,2005-11-01 00:00:00.000
+Little Sports Center,adventure-works\jae0,1 (11) 500 555-0116,UUjDa8Zdc4Zz63sgzUXpnW3zOJwJZoBuQjoNvF2FVs0=,SNjG3l0=,2007-08-01 00:00:00.000
+Online Bike Sellers,adventure-works\michael9,249-555-0172,V74x3qYKzA71fWSI3y7gFD552b65vQ+acGzI6wdBsQ4=,hY2Xf6o=,2006-09-01 00:00:00.000
+Capable Sales and Service,adventure-works\pamela0,928-555-0117,EAI1ECvxzm9o9MbS8sPVK9QqTkerK/+KO5Wt6escxwY=,7xO2UQE=,2005-07-01 00:00:00.000
+Commendable Bikes,adventure-works\david8,383-555-0155,haGTwCpR1pahJRX/490ASvk+bkWOZv828Z8Krd0XO50=,Jmtgb40=,2006-07-01 00:00:00.000
+Big Cycle Mall,adventure-works\jillian0,588-555-0128,SnOacRNEqi3s4ywOGFR5MLNghukZ/0bEg9u6LbvzOOE=,+apUSQU=,2007-08-01 00:00:00.000
+Local Sales and Rental,adventure-works\jillian0,632-555-0171,NmON5fxy8YJbaxIrc6lSHicKQ9t/hBGfB1lwcWOr+xc=,Q5WaAeA=,2007-09-01 00:00:00.000
+Brightwork Company,adventure-works\shu0,883-555-0177,WonAzK7XRDoFn66D6qVMzma60dA96LHtk2lz7a28mI4=,0lp7vWg=,2005-08-01 00:00:00.000
+Pro Sporting Goods,adventure-works\linda3,640-555-0198,xvClDu5JJr01TcnxmN1vuMKxvRmlPKIxxZHZVEPs8bk=,5qLSJhI=,2005-08-01 00:00:00.000
+Affordable Sports Equipment,adventure-works\shu0,996-555-0196,aJNRDB5SUe0Z3cvfmFqrv/H8fOL9ZoIJhk2iqtM/244=,RvrCF5g=,2005-08-01 00:00:00.000
+The Commissary,adventure-works\josé1,570-555-0199,ClF4Z2L4qQo1wgDJduU5/gxrvxuwBxlzP75SHI50bGM=,S111y4k=,2006-12-01 00:00:00.000
+Workout Emporium,adventure-works\josé1,665-555-0198,V09BZHvbhAXD4fluXDexe9/89mGNsFPrGa/5NMiJBRU=,3lDpoDs=,2007-09-01 00:00:00.000
+Odometers and Accessories Company,adventure-works\garrett1,519-555-0151,xGCe2CsXuZvX8e6v4sTb/+XoU+4gWDQEnJADwhDsrhg=,ns1gQU4=,2007-09-01 00:00:00.000
+Leisure Clearing House,adventure-works\jae0,1 (11) 500 555-0181,Hx2n4MFm10Hr0PL/j104QJK1WuHogx9N0H2U16PqpeM=,v8LsuAE=,2006-08-01 00:00:00.000
+Imaginary Toys,adventure-works\pamela0,708-555-0169,O4klT8SXfYnT7o3qMpvaJ2lqs00qG6/UsfyahQihxFU=,Ze2j4rQ=,2006-07-01 00:00:00.000
+Impromptu Trips,adventure-works\david8,134-555-0182,dT+8gAkuDqXAvfiIcTsiHoTPkfgs4bJuTILNGQjjc0g=,aKMOOAA=,2006-07-01 00:00:00.000
+Genuine Bike Shop,adventure-works\jillian0,273-555-0181,ZJ2widMDceVmN30pfgwzpo2Z53AGVrr2LIlFccG4KEc=,BuagBic=,2005-09-01 00:00:00.000
+Good Bike Shop,adventure-works\jillian0,223-555-0184,yRB9ce1nhQby11wW4ZjaqdAHLcagnHeelEySfrDOivk=,af0s25U=,2005-09-01 00:00:00.000
+Exertion Activities Club,adventure-works\shu0,816-555-0118,GVYXCGfsj47VsZUEhhRmXnl3+57f28vVF3wGHfli7oU=,p9JC+Qs=,2005-09-01 00:00:00.000
+Extreme Riding Supplies,adventure-works\linda3,429-555-0145,8C7859RNaDWPJkDaaxgaJaZPSf7ikFyFa//RYOz0aPo=,tAAs8Fk=,2007-09-01 00:00:00.000
+Fitness Cycling,adventure-works\shu0,448-555-0179,QHqQuKTbipj1cJzbCkCMH+zQGE09jtToYi9uy0cv77E=,KOGA0IE=,2007-07-01 00:00:00.000
+Bikes for Two,adventure-works\josé1,371-555-0143,lQBr+SJMfQdHmj/GHgx+x1PKMKtwLGbiInwVTo+4Qfo=,7P8PxcQ=,2006-09-01 00:00:00.000
+Bikes for Kids and Adults,adventure-works\josé1,910-555-0116,SqD2biQr39fo9zJnjNrYH0b9Ww+jQyq4h+t6vSz0/4M=,8fDglPw=,2006-07-01 00:00:00.000
+Custom Accessories Company,adventure-works\garrett1,817-555-0114,XaEqG3bH0NhFTn8IBCk4SidcF444Tnvqqr5UjGUiN7E=,DblcZuo=,2006-08-01 00:00:00.000
+Uttermost Bike Shop,adventure-works\jae0,1 (11) 500 555-0118,+hCthjbuE+VctSZXuurfmfusjXPrneMHQFQLVjTsnuE=,fS7eEaQ=,2006-08-01 00:00:00.000
+Small Cycle Store,adventure-works\michael9,583-555-0130,9lHdXDAUHUKcA9bEprsps9C8mGNyVVPQ36yJe1BxrWw=,TmbNGeI=,2005-07-01 00:00:00.000
+Thorough Parts and Repair Services,adventure-works\pamela0,827-555-0143,6puEloqDRSg8AhINyUQ7qORZUS5CON8jUaFikiprWVo=,bhH3VWU=,2005-08-01 00:00:00.000
+Road-Way Mart,adventure-works\david8,234-555-0112,ZRFnYyY0jR0KxF7thOVIbZAFk+RsH+WO0kvZDRTup2Y=,4TnK5Fo=,2006-10-01 00:00:00.000
+Satin Finish Company,adventure-works\jillian0,847-555-0151,TIOaZdFb/aFk03gncvEijaflLdTkxJfJnFJXXZdBDds=,PavVqD4=,2006-08-01 00:00:00.000
+Sheet Metal Manufacturing,adventure-works\jillian0,145-555-0152,W+klFtJ6V2H2UQK1pJdYy2MEbai2eYSHD0QGx02rFw8=,8iuXJ0k=,2006-08-01 00:00:00.000
+Professional Cycle Store,adventure-works\shu0,148-555-0149,/96oQfFuq06DWi8P5TZqIU/tF2E/GKRMliIjGRWKRDE=,9P3dKrM=,2006-07-01 00:00:00.000
+Remarkable Bike Store,adventure-works\linda3,121-555-0157,OfvFj11NFlpVFhEacTp7Nw+8EqwxHKIv9aJ+2ZgcUMI=,XaJdIYM=,2005-12-01 00:00:00.000
+Regional Manufacturing,adventure-works\shu0,425-555-0158,GgQkc8evqVQZvWwqG9L+QxrK0lzeuCIX4JIe535eQ8Y=,2HvuG3I=,2005-09-01 00:00:00.000
+Original Bicycle Supply Company,adventure-works\josé1,185-555-0190,CkyI2hpILZNVv06ClZJ5hmNstcWHJxU+3sqIAEO7AbM=,bsrg3KE=,2005-07-01 00:00:00.000
+Courteous Bicycle Specialists,adventure-works\josé1,476-555-0184,VC5UG8CPRifGAgItWSWIpplMzshRj9HJwWt6KBvEFk0=,aNoO9K0=,2007-09-01 00:00:00.000
+Finer Cycle Shop,adventure-works\garrett1,396-555-0187,zrx5RFbPSu5mxzlRdxbDIH2wSdDS9S9OvSavFh1QHUA=,XjtM78E=,2006-08-01 00:00:00.000
+Action Bicycle Specialists,adventure-works\jae0,1 (11) 500 555-0176,y8RaWYkfTrcpFEipLXAyKC2pL8AJgQhpW2mOmZ8sqF4=,vx5Ko/Q=,2007-09-01 00:00:00.000
+Roadway Bike Emporium,adventure-works\pamela0,691-555-0149,EXyX+Acbgfz6Y4iZ9KNW4TsmchGMdgjtJqmn+Xu2Mws=,/4/gh8A=,2007-07-01 00:00:00.000
+A Cycle Shop,adventure-works\david8,398-555-0167,PqP7JYEV7uwp4lhZS0eq3xGVazdcCgdpMFK082MmyiE=,4blcnbQ=,2007-07-01 00:00:00.000
+Unique Bikes,adventure-works\jillian0,672-555-0112,bWjEPINRmvLEbxP7M/s7AJTqpJenlAkq34rNVCEXqpc=,+Yo0P+0=,2005-09-01 00:00:00.000
+Sleek Bikes ,adventure-works\jillian0,834-555-0132,yV4p9H28cp19QO/bcSjLxZFYAs22W5SR9HnmTXUEWkM=,qUowBt4=,2007-09-01 00:00:00.000
+Timely Shipping Service,adventure-works\shu0,740-555-0159,a+hmmVFjNsedclcbOwkz48GUza0wrQc51JPBj3JdaBM=,X1REDgI=,2007-09-01 00:00:00.000
+Riding Excursions,adventure-works\linda3,912-555-0149,Wwwn13Huxc1/wSvPmlYH5pXoqz1XUDSzAdavDQcyTKk=,x+UpoXE=,2006-01-01 00:00:00.000
+Retail Sporting Equipment,adventure-works\shu0,962-555-0112,pDvvWVr112kWGzoRmRsd4CgPPnyLtAEQGoYHe7Q65PM=,zYqZHNo=,2006-09-01 00:00:00.000
+Price-Cutter Discount Bikes,adventure-works\josé1,753-555-0179,pGBoWobCmo+yyzVgDnZL5z3fgTKLorCbJuofCkwniGs=,ZFXGiMU=,2005-09-01 00:00:00.000
+Active Life Toys,adventure-works\josé1,907-555-0170,ZLp7yG5TYPKeQ7F+bE+OAdM4Z6HzU3EWjyk8211nuP8=,Vuzh1IE=,2006-09-01 00:00:00.000
+General Riding Supplies,adventure-works\garrett1,962-555-0175,SeCchhGjoFaNiCwjURJ30XSE9lKCbSxUL9tDtRrg1FU=,hZbeVTs=,2007-02-01 00:00:00.000
+Central Bicycle Specialists,adventure-works\jae0,1 (11) 500 555-0136,X1Y5qQtF/cCa0JcWV87/0KfmpSje5R9/RdWM+fyB7Go=,+iF/Sqs=,2007-09-01 00:00:00.000
+Blue Bicycle Company,adventure-works\michael9,492-555-0146,kdhlX1CwoRb+G+IbaNr94q5wH+aDau5he+dsV5sbuXw=,HfBhcWQ=,2006-08-01 00:00:00.000
+Vast Bike Sales and Rental,adventure-works\pamela0,554-555-0124,357SDpcamaYl8SbrrrNR4GmwYLlfdnZvJy645g6uNIw=,5hdHSeE=,2005-08-01 00:00:00.000
+Wingtip Toys,adventure-works\david8,328-555-0192,UnSgG1XBHKmwMxg5VTpybLrsNrIqNTu91vgwbUeI10o=,k8iQbOY=,2007-09-01 00:00:00.000
+Social Activities Club,adventure-works\jillian0,596-555-0153,Uu7MYSoXZONPT3nnOss6MamCI0JtQpdQ0lHxfbTXg2s=,MFN+Ar8=,2005-08-01 00:00:00.000
+Summer Sports Place,adventure-works\jillian0,252-555-0127,DLW2IAbnBTdpl45F2NtNmotuCcasAhlznF/e4eBbffs=,r8MY8Co=,2006-09-01 00:00:00.000
+Racing Toys,adventure-works\shu0,731-555-0187,GEdCYauvHekFxYpM0bYn4e0ipp8SY+vTyO9aqudo25Y=,hvfA+Y0=,2005-09-01 00:00:00.000
+Retail Cycle Shop,adventure-works\linda3,777-555-0163,0drckP/Xt0FMU29UWCYFp/wxtTBNd5PxmzaxMM5VKYc=,hxyAApA=,2006-09-01 00:00:00.000
+Real Sporting Goods,adventure-works\shu0,581-555-0172,zI7V47DGDDCr+5PUQzccWY8u8MazpHxzT0wB13+8m50=,Pz84Lbs=,2006-07-01 00:00:00.000
+Major Cycling,adventure-works\josé1,512-555-0122,y5SdWw1VGzybXaHVXTc7TQTKtr6N54cV+htK8Ehcr+E=,H8DZOb4=,2005-08-01 00:00:00.000
+General Supplies,adventure-works\josé1,765-555-0141,AI+KoUdA4XQcOZdVLM5fW573x+opUHDHSXxhPuylCL4=,s0Fgpmc=,2006-08-01 00:00:00.000
+General Bike Corporation,adventure-works\garrett1,994-555-0194,bdpqUxwvIpfkW2ApgaplNkwQ17fOA3rjtmM6B9f2qYE=,MO+/tX0=,2005-07-01 00:00:00.000
+Downhill Bicycle Specialists,adventure-works\jae0,1 (11) 500 555-0199,vQKhd203Tno3eBvyJW+nSrZ8E387QlZFJA7DcRyrcoI=,n/cr6qs=,2006-08-01 00:00:00.000
+Bike Experts,adventure-works\pamela0,924-555-0195,miUYjqbbeA6G0zx3zN+MFegYwr7MIqFBLBIHbcxnRhA=,H30Eu1I=,2006-08-01 00:00:00.000
+Bicycle Accessories and Kits,adventure-works\david8,959-555-0151,3cd7qJyW8ZTgRdwOO9nLYDZg2EM6lehJe/nqKlKKcPY=,i2U3DxA=,2009-05-16 16:33:33.107
+Cash & Carry Bikes,adventure-works\jillian0,191-555-0198,s7Q4rdzaHWhqJHdZ05GB5VHh1eeVXQopPtyTvqSdehM=,GQqIg64=,2006-09-01 00:00:00.000
+Extraordinary Bike Works,adventure-works\jillian0,306-555-0112,AURzT7TRCKKvm0AKkEPIhSIpt/3cDoZ1UtFixmM/7MU=,t31Ri34=,2006-09-01 00:00:00.000
+Area Bike Accessories,adventure-works\shu0,991-555-0183,bmEI+phqLCE2jKmotM8SBAICQD2IvZEmy8X0LmUpMaw=,jA7oD80=,2009-05-16 16:33:33.090
+Basic Sports Equipment,adventure-works\linda3,768-555-0125,M2NMXJ5k9IJ7AKmryPzUhZqIMVsjJHs5P2voDCVEbsc=,sQuHPto=,2005-08-01 00:00:00.000
+Valley Bicycle Distributors,adventure-works\shu0,323-555-0113,zeK7weuXbh2aNM2MR5WVlOvwCXgMuHuiecTgufohN+Y=,ic4F61g=,2006-11-01 00:00:00.000
+Top Sports Supply,adventure-works\josé1,613-555-0116,1EcI7xrTOArxMpieU6+v/pzf9gN7zS00aKQWROpwyyA=,eFbn7kk=,2006-07-01 00:00:00.000
+Valley Toy Store,adventure-works\josé1,727-555-0115,dNz/EQlgVlbj0uOpI0Y8Rh+/GFUH1HvBLJJ4pqdSDTE=,yvdbcxM=,2006-09-01 00:00:00.000
+Quick Delivery Service,adventure-works\garrett1,272-555-0123,xU8UixWEoFZ9PDzLfFA3AiuIaKPV9Z2ALf/Kbpu51Zo=,E7joL4U=,2005-09-01 00:00:00.000
+Metropolitan Bicycle Supply,adventure-works\jae0,1 (11) 500 555-0177,rKKXHEQ/Zb5Z596gCAMQepmJHLIzJy+BpJaz5GSv31c=,sEZH3m0=,2006-09-01 00:00:00.000
+Historic Bicycle Sales,adventure-works\michael9,264-555-0143,qiRmTStKEBxzfmlGc6Ig0CWYVsQnN0PQGgmTEAyux7g=,Zg4TO0Q=,2005-07-01 00:00:00.000
+Honest Repair Service,adventure-works\pamela0,688-555-0115,5tnpQqGsl1FEtOjw1+pBDGRv4Cwho0BiuspfaZVuVOE=,BhyhRuI=,2007-07-01 00:00:00.000
+Great Bikes ,adventure-works\david8,571-555-0128,Li26cq1s3a+0YJcgjemlepj98r5eUwJlyHGmDJnSCWI=,NVfuzjo=,2005-07-01 00:00:00.000
+Global Sporting Goods,adventure-works\jillian0,176-555-0136,uj7ugYIlt8/EjcQMI8uLQKlKQQ/rSZ167vO7ihbVYo8=,toJKEB0=,2005-07-01 00:00:00.000
+Designer Department Stores,adventure-works\jillian0,132-555-0149,Gj5nPqWCRNrWH1xI56lwl7UvDAGPHZp3Z5QwCiKaDTc=,IrlfUfg=,2005-07-01 00:00:00.000
+Fun Toys and Bikes,adventure-works\shu0,678-555-0175,d35zXrfhsEHK6QrH/B7ipKUuuilEpY8u8rIunip5YWI=,r/UyVHY=,2007-09-01 00:00:00.000
+World Bike Discount Store,adventure-works\linda3,992-555-0111,lbduPisVeIU+cP9cYQejSE4m0OPZJifKl9/E7GrrAyo=,BJUetfg=,2005-07-01 00:00:00.000
+Wheel Gallery,adventure-works\shu0,926-555-0136,CCZ7frrqKu31sPRuEGit5egtq9PHIW51qLxRTi/TAcY=,D5ohtJ8=,2005-07-01 00:00:00.000
+Retail Mall,adventure-works\josé1,726-555-0155,7zHYCWMhkitUJXggqG0dMfCqyK0FBDp/XwCeyPYWZ1A=,DBuWFZ4=,2005-07-01 00:00:00.000
+Rural Bicycle Supply,adventure-works\josé1,833-555-0167,/RLlmUbwfhuCElQyoZ6r3d8DDXVYF3kfkJma4R7pL8g=,3KzW2g8=,2005-07-01 00:00:00.000
+Seats and Saddles Company,adventure-works\garrett1,162-555-0174,sGgVDtQybwwnAik3qbQBE+iRRjlk0ahJmqvKjTGFq5I=,aOFmjMY=,2006-11-01 00:00:00.000
+Metro Metals Co.,adventure-works\jae0,1 (11) 500 555-0118,1tbKzsdwFfEX1T/OP+I5Eu7EVKuWn2FviChJGtlaeQI=,x8xILbE=,2007-08-01 00:00:00.000
+Futuristic Sport Distributors,adventure-works\shu0,149-555-0196,mcO7vvh7FSdCS9FFgyEhwIHXKbrBkeYmcgksFie8Jzk=,S640434=,2006-07-01 00:00:00.000
+Finer Sales and Service,adventure-works\josé1,605-555-0111,bNPaVIrQ0uCjPy8EyuamUJBSc3o5l+dvYZ4PSl1zJJ0=,gTOrXjM=,2005-12-01 00:00:00.000
+Fun Times Club,adventure-works\shu0,847-555-0184,4G603WBKyHh8eHVBhhE9Fx0bYyHxSASUpUyJ5v5AG88=,br8PN50=,2005-08-01 00:00:00.000
+Alpine Ski House,adventure-works\linda3,519-555-0112,xYJSzxUQxGXkjj+EUMGu3jCaA5aPco7WAdw+VZtUbUM=,v1Ew2R4=,2005-11-01 00:00:00.000
+Big-Time Bike Store,adventure-works\shu0,669-555-0149,JFHzZpLu5HeGe//DMA9vbqFc0yeYRjrW7ItGAnDHMhk=,dUASILc=,2006-08-01 00:00:00.000
+The Showroom,adventure-works\josé1,898-555-0137,kz7kmFKpPYor30M8eaO3PAziuYa/bYqwcKomnP2NlxU=,s9kzXNA=,2005-11-01 00:00:00.000
+Tenth Bike Store,adventure-works\josé1,744-555-0123,dOvfJZgKHSk3OY2F/ZDzG76q7Vqtd3ogvi6tEW81U9E=,30pSFOQ=,2005-08-01 00:00:00.000
+Recommended Bicycles,adventure-works\garrett1,399-555-0114,pBvyGgTluk2JUwL/bK3NlXBRBgSUVk5HgHHhc2gU89k=,xdzdXEw=,2005-11-01 00:00:00.000
+Prosperous Tours,adventure-works\jae0,1 (11) 500 555-0179,7cimopKXrRxK/+QAEW4WJ+XGTEEJvTsX0l1QxCAWQI0=,C4OiUF4=,2006-07-01 00:00:00.000
+Nonskid Tire Company,adventure-works\pamela0,525-555-0174,HKBXG8BXKW53RK2DsPsqNDV7PdDSavcncjD1t/rdW18=,dS1y3X0=,2005-11-01 00:00:00.000
+Finer Parts Shop,adventure-works\david8,129-555-0185,kV0cL2OLqsK4OFtnZiL106gAKEZOBwGuAVYOYakH0kM=,GAfxRv4=,2005-12-01 00:00:00.000
+Friendly Neighborhood Bikes,adventure-works\jillian0,963-555-0146,SDOw6y7IRVh0ifbtO1Ue2Fb8cig2n0DkW+K3kmjQ/Xc=,K0sYx+Y=,2007-06-01 00:00:00.000
+Valley Bicycle Specialists,adventure-works\jillian0,158-555-0142,jCFDuqUMHmknfadTRSkMvN0IDObtE/GslvN9q2Wa5xU=,117fxZM=,2009-05-16 16:33:33.123
+Finish and Sealant Products,adventure-works\shu0,362-555-0177,v9tjo4izinAmIevwhur1w9F/Wj0yCIj1eXG0q2dFc1s=,7uZHIds=,2005-09-01 00:00:00.000
+Field Trip Store,adventure-works\linda3,608-555-0162,MA3e45BYPTDfQV7Kwg+fh94UR4S5kCbr0wdRqncaG0o=,0sZGs8c=,2006-08-01 00:00:00.000
+Curbside Sporting Goods,adventure-works\shu0,535-555-0189,BLtI4kYqIf4QqFUkSc0vKV4J1A400sEqhAfWhRMVFTQ=,ISstDas=,2006-08-01 00:00:00.000
+Remote Bicycle Specialists,adventure-works\josé1,723-555-0124,GMyxAFJL1Mwg+3iSBTMKDohFkSy5NKqGrVo0rL23S4I=,Ap+5ADc=,2006-09-01 00:00:00.000
+Vinyl and Plastic Goods Corporation,adventure-works\josé1,554-555-0110,jt9vdIyi0zI03wECUFk1hdZLTVOqN09/Fdogi+cTeQU=,uFYBREA=,2005-09-01 00:00:00.000
+Consolidated Messenger,adventure-works\garrett1,244-555-0115,tgMDK3qjc6HiiWHXztTrPQw/eEJWy2T9OWRLlcrhhbM=,W9zzlRs=,2007-08-01 00:00:00.000
+Variety Cycling,adventure-works\jae0,1 (11) 500 555-0195,jI4Q0GjuXuPicv1G1Kd3ZluvRH4IsSCG13q/+rCAqW8=,qcerumU=,2007-08-01 00:00:00.000
+Some Discount Store,adventure-works\pamela0,158-555-0123,mGggzeGp9z6TPCUrzGWt1N9gNU1CoQ+Cuu8cxh8uig4=,NNRxDmg=,2005-08-01 00:00:00.000
+Major Sport Suppliers,adventure-works\david8,331-555-0162,UxlXfO/0JyTpelLFzbqFj9Ie1Rv1OJKPd6Cnm1itSsU=,IZ5yIjI=,2007-07-01 00:00:00.000
+Mountain Toy Store,adventure-works\jillian0,447-555-0110,fJ1UEyRel4bt2DuzHtDUPBU44ZALMsfyxQQviNGARf8=,7wNTdi8=,2005-12-01 00:00:00.000
+Practical Bike Supply Company,adventure-works\jillian0,623-555-0144,CzoEFQ0OfYtg1bNPN/BfavRr5F/ulWLF9VIraghdmZo=,pXNy1Eg=,2005-09-01 00:00:00.000
+Systematic Sales,adventure-works\shu0,555-555-0162,T/ASZdvX90M9kM1P5+sGBNxwkhLxF94/vJejQ6pjLiY=,jKAQI7c=,2007-08-01 00:00:00.000
+Imported and Domestic Cycles,adventure-works\linda3,115-555-0175,bA9fPVXpV/0NMRuGiY+zju3+/lcB2r9uBk68dG22Ddk=,M5BkDDQ=,2007-05-01 00:00:00.000
+Metallic Paint and Overcoat Co,adventure-works\shu0,911-555-0153,IKeN04oVNJhVCRPh+H8BodLp24YZoRNRfJ0/S8zK+ls=,s71j+uU=,2007-05-01 00:00:00.000
+Economy Center,adventure-works\josé1,555-555-0162,mRsptWTaXRgSBaILQ+BYKXl50LdVbLPrHgVQDImm2mc=,e139ONA=,2005-08-01 00:00:00.000
+Designated Distributors,adventure-works\josé1,699-555-0155,steY9ge/f3jz0DNlVhxkdUx1NrciPQzyUpvtGCcoYBo=,KUNCNjU=,2005-08-01 00:00:00.000
+Family's Favorite Bike Shop,adventure-works\garrett1,968-555-0153,tEgc21LcZ3r2OP2nJIkrbmo2fXvbIC9npM6uzG1osbY=,IlDduMc=,2006-08-01 00:00:00.000
+Area Sheet Metal Supply,adventure-works\jae0,1 (11) 500 555-0119,vMyt8M0mW0ueXgZQ1RobrccRTzB3IVXOkX5Zy5h5a/A=,Qtn1h+4=,2006-08-01 00:00:00.000
+Synthetic Materials Manufacturing,adventure-works\pamela0,851-555-0127,BEq/PlDx4jHq8M8eOxUHo3LyOu4Aetq3bsbr8QlvMuI=,GVMmXow=,2006-01-01 00:00:00.000
+The Bike Shop,adventure-works\david8,957-555-0125,jnz8GF/glxwiqqdUVHkoV+53Mp1HOnFR/azWzJ80Ktc=,qwoGYjU=,2005-07-01 00:00:00.000
+Riders Company,adventure-works\jillian0,334-555-0137,4I8349R6c33cK+j1ef3dZt0JHOQ9MV7OvEXpCbwhQrQ=,rrgbG/U=,2009-05-16 16:33:33.077
+Rural Sales and Service,adventure-works\jillian0,190-555-0186,zOvX8kRn4fdhAQJxa8bWrWKsuorYlcuOn6PsgZy7o0c=,HQlRLlk=,2006-03-01 00:00:00.000
+Safe Toys,adventure-works\shu0,329-555-0183,Wc/TlRg7q92tTI8Njp2Ivs8eKIRej8TfabwOQYYybe8=,anxKyOc=,2005-09-01 00:00:00.000
+Professional Sales and Service,adventure-works\linda3,747-555-0171,zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=,rpyd5Tw=,2009-05-16 16:33:33.077
+Professional Containers and Packaging Co.,adventure-works\shu0,741-555-0173,Ve/S2F7op7awJVe7aBPDkDTtsOiyLvShdymITr5ilEI=,ckT+1XU=,2006-08-01 00:00:00.000
+One Bike Company,adventure-works\josé1,797-555-0118,No6/IlWBeOp1TBZ1wAMOUa5VwYHrf3NyowdeNz4yGNs=,VQqvrDo=,2006-09-01 00:00:00.000
+Our Sporting Goods Store,adventure-works\josé1,920-555-0191,q1tCJRWRCSt1/VrADrMeQkLwbHjw1LlGOdVX8DLaYoM=,83MFiok=,2006-09-01 00:00:00.000
+General Cycle Storehouse,adventure-works\garrett1,127-555-0124,cTcQEsZdQPvGLuu5iDRwrqp4fM6oBxNFi+X7anqqPzA=,bvb6hus=,2005-09-01 00:00:00.000
+Cycling Goods,adventure-works\jae0,1 (11) 500 555-0115,eVnhcpqYU3NKN52mFwcXw11n5pF8qfCFpZBVTo45zsY=,XSHxez4=,2006-08-01 00:00:00.000
+Cycle Clearance,adventure-works\pamela0,792-555-0194,0ZfPkEBplSrQkVpmgzrlfblSeTpJ4CJwJu7aVWOuOSM=,FDIch68=,2007-09-01 00:00:00.000
+Coho Sports,adventure-works\david8,627-555-0192,UA0N5pHkC4DZZ4xHgqJohcC+5L3JnoaegTulnb1lrhA=,WGizZm8=,2006-08-01 00:00:00.000
+All Seasons Sports Supply,adventure-works\jillian0,129-555-0120,7n1V5i5pzSERgIgX+CGs3KdSRIWCKMMppAbccjLLWQQ=,FebyYno=,2007-07-01 00:00:00.000
+Black Bicycle Company,adventure-works\jillian0,441-555-0144,eiskTIJrt6kqa7sel16D8OBUVoPmh3ud4vMChJvsZCc=,0rK3P2k=,2007-02-01 00:00:00.000
+Westside Plaza,adventure-works\shu0,362-555-0162,NghLMnHjoD3F7B0y8sTtYlpCq5imhhvrn56YUAUNEm4=,68RH5og=,2007-07-01 00:00:00.000
+Strenuous Exercise Shop,adventure-works\linda3,654-555-0150,n17D3Bxk24bdzD3bEx0DUQ3Nmts/O7lqoGn57J5z1Og=,wmfLAOE=,2007-07-01 00:00:00.000
+Transport Bikes,adventure-works\shu0,328-555-0123,nPkLkDdemKmfK3VexvRWH5zYyNzwcfvny8DxWGnicSw=,hLswDiQ=,2007-09-01 00:00:00.000
+Sellers of Cycles,adventure-works\pamela0,517-555-0120,Sr0056wJj+khaWXi1cRpgU62bgcN9VaN6VJADuKWey4=,7uwL9LU=,2007-09-01 00:00:00.000
+Outstanding Cycles,adventure-works\david8,695-555-0161,I5oNRDKehZnUlVTunv+30kLR3rM7VyVA2vJyu6CNveI=,beKST+I=,2007-08-01 00:00:00.000
+Little Bicycle Supply Shop,adventure-works\jillian0,850-555-0198,hbXMO61Cy3vQxyCiHA7HyFryiQNgK7GAqMxsht+DVBI=,yvAO+sY=,2007-08-01 00:00:00.000
+Maintenance and Repair for Bicycles,adventure-works\jillian0,355-555-0180,6WWUM3/rogiNsZhr2QrAacB6N22U0ZWIgDs1/K05cpI=,4QdzKJI=,2007-08-01 00:00:00.000
+Golf and Cycle Store,adventure-works\shu0,280-555-0124,S9Kf7AXqY19C/4rLMHjUwO+5Yh7mMhaPsuouZxizDpg=,Hp2yS7E=,2005-09-01 00:00:00.000
+Good Toys,adventure-works\linda3,969-555-0117,+gtwbVycsIIj2loVtrHNRN6IBLl20lQpRK8+JhzxyEo=,AwqZdYk=,2006-09-01 00:00:00.000
+Fitness Department Stores,adventure-works\shu0,366-555-0110,Sapr4JrpchrNOsaFQvNr+C8KtCL9DgKHOdvYws7WrOM=,QvunVRs=,2007-08-01 00:00:00.000
+Famous Bike Shop,adventure-works\garrett1,226-555-0110,UhGiWqQH+ZqO4P2SIEQ4J9goCINUOyHBAttZ/+kJooA=,awRBGoA=,2006-09-01 00:00:00.000
+Tubeless Tire Company,adventure-works\jae0,1 (11) 500 555-0146,V+NOGsSc50L8026bnGkDjKzDoI/ND88zeG1cDP5uO7Q=,SC/mXZQ=,2007-08-01 00:00:00.000
+Tires and Tubes,adventure-works\pamela0,482-555-0188,K9PXehZSeHlIA1Tb5gEOxe7YmFCX8u6Qlju4nRie0Cg=,fJ1qzBg=,2005-07-01 00:00:00.000
+Running and Cycling Gear,adventure-works\david8,146-555-0176,q9I0z+PgMdt+yPOfNb1pj69QvJ3r8WuMzirXw4mW4BM=,hDyaJt4=,2007-09-01 00:00:00.000
+Gift and Toy Store,adventure-works\jillian0,493-555-0185,FT/8LOHiql36eAZLyTYZ2uqevgzDFxh6W9nVGmMmrhw=,M0RBO9w=,2006-07-01 00:00:00.000
+Hardware Components,adventure-works\jillian0,153-555-0195,p/kLCLWcvgvL26dkJoqHo4GqZmYGVWCYCrBwbhTLKtY=,gJeczkk=,2005-08-01 00:00:00.000
+First Cycle Store,adventure-works\shu0,454-555-0160,gna2fhtLmKi5ZKr50RuPJEI5Vh/osfQgFxhjmQs0XpI=,wt1HllQ=,2005-09-01 00:00:00.000
+Major Sporting Goods,adventure-works\linda3,315-555-0131,iqikbQl8bEZb+ulQMP5FNBSjXL1grUcz4NTUP9GBmAQ=,ZqTw9GM=,2007-02-01 00:00:00.000
+Retail Sporting Goods,adventure-works\shu0,129-555-0185,2d7alYFBKkadQ4uQc1u70/bdOXfmqCXEr5kCDqYMEc4=,hGtKm+M=,2006-10-01 00:00:00.000
+Efficient Cycling,adventure-works\josé1,809-555-0152,6UfB6OlcKQXLjWHj+yl3Ck3STFhp4YRHN/aojcUvsb0=,HGudpUM=,2007-08-01 00:00:00.000
+Eastside Parts Shop,adventure-works\josé1,194-555-0149,6kDCzX44wtxfxZaC28Ek1kf7IczJ9hxLvDx9DfU8B60=,m9GHYGc=,2007-09-01 00:00:00.000
+Tandem Sales and Service,adventure-works\garrett1,631-555-0155,5obs6LI7GwHZ55lps26uIsPyz7E4xBxF6pdB5KYAnn0=,/Q1sZG0=,2005-09-01 00:00:00.000
+Sports Store,adventure-works\jae0,1 (11) 500 555-0110,C0yLsx6zITh7lXoIPgG1bl1t5II3nx4GYi/RaS1yB84=,WnTAc/0=,2006-12-01 00:00:00.000
+Reliable Retail Center,adventure-works\garrett1,666-555-0143,4wMARaGSdJ36NMWSghaEHOvqGA6TSKb3JZJ8QlNfnok=,0JS3VLg=,2006-09-01 00:00:00.000
+Extended Tours,adventure-works\jae0,1 (11) 500 555-0140,X6Rw044/W0OFsOl+AJSD6WZFTsjbaCa3sn719STdi0Y=,tRFzZLs=,2006-07-01 00:00:00.000
+Friendly Bike Shop,adventure-works\michael9,537-555-0190,qE35+Yj4hYU97ToV8hswsOzcxEz23lHAGGrIx9xL2YY=,DfqJQ4g=,2005-10-01 00:00:00.000
+Convenient Sales and Service,adventure-works\pamela0,684-555-0134,syI1UO2qeBH9g2tg2nu3DTejZc7OEShGw8jxOqXfATY=,FAw6ojc=,2006-09-01 00:00:00.000
+Superior Hardware Distributors,adventure-works\david8,784-555-0120,BveRxEdkJ/QVGtSMNGrJu9cLHlihVb+wlFzxrHOsSkA=,DmNlCmQ=,2006-08-01 00:00:00.000
+Yellow Bicycle Company,adventure-works\jillian0,470-555-0171,E1wwrSH3sVJUF8UlhuAF+A5UTcdr1LObJBI67CvopDA=,LqtoWXs=,2005-07-01 00:00:00.000
+Solid Bike Parts,adventure-works\jillian0,918-555-0141,/upSM1yXqGCA1vtYL9IB/NcKFrE3cg7HvqSYGTsQprM=,uXetzTc=,2005-09-01 00:00:00.000
+Small Bike Shop,adventure-works\shu0,158-555-0154,RGd9trE6ku80EeSumu50h1MGol+lmzdeCrME1UBOKCA=,256h+G0=,2005-09-01 00:00:00.000
+Sports Products Store,adventure-works\linda3,245-555-0191,PubfC/rRrBqx4Duzd5die33tt0m74frlazigsOv3D7s=,IZ6tF0Y=,2006-09-01 00:00:00.000
+Permanent Finish Products,adventure-works\shu0,265-555-0143,TUk6pzHyHoA6CadqZKdfwfCKtp3f4RhQ07VWCDZDKIM=,osDZuYo=,2005-08-01 00:00:00.000
+Mercantile Outlet,adventure-works\josé1,680-555-0160,grGra0LtVSrZMZySvhV+ggFwVRSDpwDd39a18q68CD0=,kc4E3DA=,2006-08-01 00:00:00.000
+Online Bike Warehouse,adventure-works\josé1,214-555-0145,oQESLWRzzA7xFmx/oeIwJrVckc/0dzUxgBru6ptUjqA=,Y/Ty5LA=,2006-09-01 00:00:00.000
+Operational Manufacturing,adventure-works\garrett1,790-555-0197,3A2aNKKLe47G95cy27tMj6HW1ov3nLIR530SWR/vrZ4=,uJ5Exxo=,2008-06-01 00:00:00.000
+Shipping Specialists,adventure-works\jae0,1 (11) 500 555-0174,eVyn3oU+PF4k5dUPOBDIl+7JqQhO17DiG/iJE8dPkgc=,MYqiM6w=,2008-02-01 00:00:00.000
+Exhilarating Cycles,adventure-works\michael9,371-555-0184,dG3/Y2fWXOAgE37z4Vj0K7ejAxDbv9M902ByQTjdng4=,/PSiwRg=,2006-07-01 00:00:00.000
+General Department Stores,adventure-works\garrett1,143-555-0129,9q51LeEZWFDB+L+DtlRs239EjYmK9mN+eUjUvqLToLw=,niDlQYk=,2005-08-01 00:00:00.000
+Authentic Sales and Service,adventure-works\jae0,1 (11) 500 555-0178,jlXuo2MxBdUaBFU1a7LQeFlHkJUTu5koo+dBRsKSbrw=,blIz9rk=,2006-09-01 00:00:00.000
+Official Parts Shop,adventure-works\pamela0,942-555-0141,EQfen7Xb4ZYQG6fC/yOA9SRKRw4HtLTBSHq1n1yOiAs=,LH8E+mM=,2006-07-01 00:00:00.000
+Racing Bike Outlet,adventure-works\david8,899-555-0134,oNLvRmGCzEz1jsW8aIhOPt/9GVbikzcIYiqMuMKtrYw=,ZeNva8s=,2006-11-01 00:00:00.000
+First Bike Store,adventure-works\jillian0,859-555-0140,M5s53K3R8LqDXmLZX8/YZWvhkKuUo3dkpcmAFuw6d8U=,1lkXMps=,2005-07-01 00:00:00.000
+"Contoso, Ltd.",adventure-works\jillian0,747-555-0113,Ajd6a502mnEIwl6n2we4J6ee42p14MOpKGWrKSHsxxo=,YuvPgz4=,2005-07-01 00:00:00.000
+Utilitarian Sporting Goods,adventure-works\shu0,169-555-0178,Jlxkjapdo78bvTdzddS8yoUxcj6pyFuXwdsCGn6KHvI=,ClRPyyM=,2007-09-01 00:00:00.000
+Countryside Company,adventure-works\linda3,107-555-0117,2stwPzsfBnHlWJSw7+jrEjtXjaoxVkBMOVsluOUNpog=,zNDLlSI=,2006-10-01 00:00:00.000
+Discount Tours,adventure-works\shu0,685-555-0117,UbL/DUTnTSqLeeA4RQCXS5ofw+ATOi1iWyGfuy/PO6g=,CAB+B+I=,2005-12-01 00:00:00.000
+Tire Exchange,adventure-works\josé1,394-555-0168,Io27wVPQenseFjuryNClpoCLiH0HtpKdgQrqYO9W/OQ=,1sXsDEE=,2006-08-01 00:00:00.000
+Vigorous Exercise Company,adventure-works\josé1,916-555-0137,EVeayvYSlWRfySd2RBGRSr93ST2Me+VDyAoD44WBrrg=,jj5f+ZA=,2005-09-01 00:00:00.000
+Superb Sales and Repair,adventure-works\garrett1,393-555-0167,RxykMRRwPRGYqzudPUFD1TKUT1bvgYanY1nsGIvL0Jo=,KnmJUbs=,2005-07-01 00:00:00.000
+Oils and Fluids Warehouse,adventure-works\jae0,1 (11) 500 555-0137,lePksYQQH7iiujo49o5l9u2k6fs+JCFtUHkyVL8P7WM=,JYjWVqI=,2006-08-01 00:00:00.000
+Family Cycle Store,adventure-works\garrett1,763-555-0120,qqWGyjPy74GLpFoYkhe3eQutrmixkWZkZHsl5d0mZpI=,TfeFfy4=,2006-09-01 00:00:00.000
+Consumer Equipment,adventure-works\jae0,1 (11) 500 555-0113,zTIlJwPJ9VjXFq2kSSD/H313VF0ZlgeS3a6z5UDvo9k=,Em3q8s4=,2007-09-01 00:00:00.000
+Successful Sales Company,adventure-works\pamela0,143-555-0113,j42zXyaSRc55aauqsJrhWZdZBGkW64qaL1hO1tdgdQk=,5dgYmOY=,2006-09-01 00:00:00.000
+Stock Parts and Supplies,adventure-works\david8,539-555-0121,NJJTfbDws96bPa7Giz9Mmq+M0NSYcjlcfwpjsUnYWdE=,MPxWTOU=,2007-08-01 00:00:00.000
+The Accessories Store,adventure-works\jillian0,713-555-0168,lykTZ3vUjtqvW669XVLX3Gk9RrV2EBdorSOkebEHyvk=,M7xYGr4=,2006-08-01 00:00:00.000
+Responsible Bike Dealers,adventure-works\jillian0,620-555-0117,yaVIQNTOMlDFxsn08drJdHoPTkydd5XKkeBgAPyVGbk=,v43cndI=,2006-09-01 00:00:00.000
+Roadway Supplies,adventure-works\shu0,962-555-0144,v404bp5zCcIyJO+s50eW4MbBxBjjkDQJe5ee5fvwBKI=,pDYvCjw=,2005-11-01 00:00:00.000
+Brakes and Gears,adventure-works\linda3,774-555-0133,tkI9EcizphWPzkz7kDwsd2AnKnZJi3/6+V5/fIuXPpo=,sQMfTfM=,2005-08-01 00:00:00.000
+Western Bike Supplies,adventure-works\shu0,944-555-0148,Q0MU0NsjDAbnQSqMBkP9Sm4G43DKXcirOnAKlzYSYnI=,DZ8e0Xk=,2006-07-01 00:00:00.000
+Future Bikes,adventure-works\josé1,674-555-0188,zM1odbx2eTJoH556dXSIqTCDa5EBj8DWUSHVo67GEGc=,Q5U1IZU=,2006-12-01 00:00:00.000
+Professional Sales and Service,adventure-works\linda3,747-555-0171,zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=,rpyd5Tw=,2009-05-16 16:33:33.077
+Riders Company,adventure-works\jillian0,334-555-0137,4I8349R6c33cK+j1ef3dZt0JHOQ9MV7OvEXpCbwhQrQ=,rrgbG/U=,2009-05-16 16:33:33.077
+Area Bike Accessories,adventure-works\shu0,991-555-0183,bmEI+phqLCE2jKmotM8SBAICQD2IvZEmy8X0LmUpMaw=,jA7oD80=,2009-05-16 16:33:33.090
+Bicycle Accessories and Kits,adventure-works\david8,959-555-0151,3cd7qJyW8ZTgRdwOO9nLYDZg2EM6lehJe/nqKlKKcPY=,i2U3DxA=,2009-05-16 16:33:33.107
+Valley Bicycle Specialists,adventure-works\jillian0,158-555-0142,jCFDuqUMHmknfadTRSkMvN0IDObtE/GslvN9q2Wa5xU=,117fxZM=,2009-05-16 16:33:33.123
+Vinyl and Plastic Goods Corporation,adventure-works\josé1,554-555-0110,jt9vdIyi0zI03wECUFk1hdZLTVOqN09/Fdogi+cTeQU=,uFYBREA=,2005-09-01 00:00:00.000
+Fun Toys and Bikes,adventure-works\shu0,678-555-0175,d35zXrfhsEHK6QrH/B7ipKUuuilEpY8u8rIunip5YWI=,r/UyVHY=,2007-09-01 00:00:00.000
+Great Bikes ,adventure-works\david8,571-555-0128,Li26cq1s3a+0YJcgjemlepj98r5eUwJlyHGmDJnSCWI=,NVfuzjo=,2005-07-01 00:00:00.000
+Valley Toy Store,adventure-works\josé1,727-555-0115,dNz/EQlgVlbj0uOpI0Y8Rh+/GFUH1HvBLJJ4pqdSDTE=,yvdbcxM=,2006-09-01 00:00:00.000
+Major Sport Suppliers,adventure-works\david8,331-555-0162,UxlXfO/0JyTpelLFzbqFj9Ie1Rv1OJKPd6Cnm1itSsU=,IZ5yIjI=,2007-07-01 00:00:00.000
+Family's Favorite Bike Shop,adventure-works\garrett1,968-555-0153,tEgc21LcZ3r2OP2nJIkrbmo2fXvbIC9npM6uzG1osbY=,IlDduMc=,2006-08-01 00:00:00.000
+Imported and Domestic Cycles,adventure-works\linda3,115-555-0175,bA9fPVXpV/0NMRuGiY+zju3+/lcB2r9uBk68dG22Ddk=,M5BkDDQ=,2007-05-01 00:00:00.000
+Systematic Sales,adventure-works\shu0,555-555-0162,T/ASZdvX90M9kM1P5+sGBNxwkhLxF94/vJejQ6pjLiY=,jKAQI7c=,2007-08-01 00:00:00.000
+Mountain Toy Store,adventure-works\jillian0,447-555-0110,fJ1UEyRel4bt2DuzHtDUPBU44ZALMsfyxQQviNGARf8=,7wNTdi8=,2005-12-01 00:00:00.000
+Designated Distributors,adventure-works\josé1,699-555-0155,steY9ge/f3jz0DNlVhxkdUx1NrciPQzyUpvtGCcoYBo=,KUNCNjU=,2005-08-01 00:00:00.000
+Bold Bike Accessories,adventure-works\linda3,855-555-0174,P1Osji8Ez9uYQCzuZXjnutazXvhAlWDRLjCcTcJb/Ug=,CGYtmQ4=,2005-08-01 00:00:00.000
+Serious Cycles,adventure-works\garrett1,614-555-0134,8/5CuOyL4qEu4tD2KEd4x1h5OahPfcmZg9L7+F0ATDI=,qoGU2YA=,2005-08-01 00:00:00.000
+Novelty Bikes,adventure-works\michael9,327-555-0148,CkSWR0RMQArXpZJnpZgCnzSPuw3PUh/1jTmWPcrjYyM=,7xa5oqo=,2007-08-01 00:00:00.000
+Brightwork Company,adventure-works\shu0,883-555-0177,WonAzK7XRDoFn66D6qVMzma60dA96LHtk2lz7a28mI4=,0lp7vWg=,2005-08-01 00:00:00.000
+Resale Services,adventure-works\linda3,226-555-0146,8ml/xroz0hroeUDl/KW2y2QlIIgHgygotLw0Md60cBY=,hXYQBis=,2005-08-01 00:00:00.000
+The Gear Store,adventure-works\jillian0,149-555-0113,AJwPH2IQhCHW77xtUnJh0G0EXqA11PsPLRRuSQK+K9U=,ZXH0EUg=,2005-08-01 00:00:00.000
+Immense Manufacturing Company,adventure-works\jillian0,556-555-0145,wGKQ72A4aSsDe2tQKUY1T1o0i/AO69PqKcMSFIponoQ=,3VRtZxg=,2007-08-01 00:00:00.000
+Extended Bike Sales,adventure-works\linda3,129-555-0110,t+VbX7JvYz3GISo+HPpubYQr00RQKJLNqOx1dQdMKCc=,bwG1Wck=,2005-09-01 00:00:00.000
+Workout Emporium,adventure-works\josé1,665-555-0198,V09BZHvbhAXD4fluXDexe9/89mGNsFPrGa/5NMiJBRU=,3lDpoDs=,2007-09-01 00:00:00.000
+Work and Play Association,adventure-works\michael9,818-555-0171,m79YsPy3BDp4/SUQsvNcbTQuyZxUGV9TuBeHcAHjZCk=,F0hRcQ8=,2006-09-01 00:00:00.000
+Nice Bikes,adventure-works\garrett1,221-555-0167,bnDkCXU7YCA05COiVJst0pMlaJtfAK0H8pgniBfLooM=,oOIbGSo=,2006-09-01 00:00:00.000
+Remarkable Bike Store,adventure-works\linda3,121-555-0157,OfvFj11NFlpVFhEacTp7Nw+8EqwxHKIv9aJ+2ZgcUMI=,XaJdIYM=,2005-12-01 00:00:00.000
+Road-Way Mart,adventure-works\david8,234-555-0112,ZRFnYyY0jR0KxF7thOVIbZAFk+RsH+WO0kvZDRTup2Y=,4TnK5Fo=,2006-10-01 00:00:00.000
+Small Cycle Store,adventure-works\michael9,583-555-0130,9lHdXDAUHUKcA9bEprsps9C8mGNyVVPQ36yJe1BxrWw=,TmbNGeI=,2005-07-01 00:00:00.000
+Grand Bicycle Stores,adventure-works\jillian0,640-555-0189,W6e3zjP9/VTWIVDfWOJ7/sdwfvSP0qPkcRJ1pTa249I=,mv8CSkM=,2006-09-01 00:00:00.000
+Kickstand Sellers,adventure-works\michael9,241-555-0112,q8JpThg+EEoLRrvqBMW+Wa0RbFcCIfVIzYcGGELEOdk=,cdUS/K4=,2006-12-01 00:00:00.000
+Gasless Cycle Shop,adventure-works\garrett1,584-555-0192,bskaXdzyt3OUpHetBO/IcD+SDhG5EyMDjtlYBlgd5JM=,m3KdhOo=,2005-08-01 00:00:00.000
+Transportation Options,adventure-works\josé1,257-555-0119,muiJ85PHJTw5ocOM+yS+gq+w8REzzCOfzXZNFyDZniI=,lUNnQso=,2005-11-01 00:00:00.000
+Finer Cycle Shop,adventure-works\garrett1,396-555-0187,zrx5RFbPSu5mxzlRdxbDIH2wSdDS9S9OvSavFh1QHUA=,XjtM78E=,2006-08-01 00:00:00.000
+Center Cycle Shop,adventure-works\pamela0,521-555-0195,DzbqWX7B3EK5Dub92CKHYSUGKGbZCbrcVDpVe/xyBeI=,zXNgrJw=,2007-04-01 00:00:00.000
+Bulk Discount Store,adventure-works\jae0,1 (11) 500 555-0132,sKt9daCzEEKWAzivEGPOp8tmaM1R3I+aJfcBjzJRFLo=,8KfYx/4=,2006-09-01 00:00:00.000
+First-Rate Outlet,adventure-works\garrett1,277-555-0169,l3pyVEyTaWqsF1xRfSXtR2CgCOfOXQCSumdlzqMKLxQ=,BX3pcB8=,2005-08-01 00:00:00.000
+Another Bicycle Company,adventure-works\david8,156-555-0126,uzR3iWUJwdMRenhBxExmLfmCRPenWgwazHnSEPDbzb8=,kj/7VTw=,2007-09-01 00:00:00.000
+Unsurpassed Bikes,adventure-works\jillian0,789-555-0189,POpWTovMrdUJmLS24NDBdrrY5tasoVlQod5uB56k4YM=,Jx6w2tk=,2007-09-01 00:00:00.000
+Field Trip Inc,adventure-works\michael9,528-555-0183,FnBp23EtjoS2hj7nCcr9a76vZjNvQ+/WT/5vyYyKG5o=,TYGH50Q=,2005-11-01 00:00:00.000
+Odometers and Accessories Company,adventure-works\garrett1,519-555-0151,xGCe2CsXuZvX8e6v4sTb/+XoU+4gWDQEnJADwhDsrhg=,ns1gQU4=,2007-09-01 00:00:00.000
+Scratch-Resistant Finishes Company,adventure-works\josé1,156-555-0111,0J6cl9Zhm+g4rbqJrvyshZWF72arbVNptT27ZL2QTMc=,2Ugh6Q4=,2005-08-01 00:00:00.000
+Safe Cycles Shop,adventure-works\david8,449-555-0176,uNz2P7Jd7t3y2Neqi3NsRS7m0blEPSm/j3sOdXpJ7aw=,G5Du9Sw=,2006-09-01 00:00:00.000
+Number 1 Supply,adventure-works\shu0,384-555-0169,PGmZaBbqtByrVs9jYLcigdjJ5O29jcKmsdbRwANU3WQ=,6Mzfp8w=,2006-08-01 00:00:00.000
+Golf and Cycle Store,adventure-works\shu0,280-555-0124,S9Kf7AXqY19C/4rLMHjUwO+5Yh7mMhaPsuouZxizDpg=,Hp2yS7E=,2005-09-01 00:00:00.000
+World Bike Discount Store,adventure-works\linda3,992-555-0111,lbduPisVeIU+cP9cYQejSE4m0OPZJifKl9/E7GrrAyo=,BJUetfg=,2005-07-01 00:00:00.000
+Historic Bicycle Sales,adventure-works\michael9,264-555-0143,qiRmTStKEBxzfmlGc6Ig0CWYVsQnN0PQGgmTEAyux7g=,Zg4TO0Q=,2005-07-01 00:00:00.000
+Commuter Bicycle Store,adventure-works\josé1,972-555-0163,wqhgKfOTfef4Zo3cb6FwsFzvG/yCVstuYh3AuwjRszQ=,SZ+r60o=,2007-08-01 00:00:00.000
+Coalition Bike Company,adventure-works\shu0,357-555-0161,pKYDelLBOZMO98GBzhMxBSzzE0gUYKx9dXzYTYNuBgw=,jKtOaOw=,2006-09-01 00:00:00.000
+Travel Systems,adventure-works\jillian0,121-555-0121,23AwhujCoXYSPiN/B+G8Z9rk36xl35EbdLT7akTMTqU=,SmyIPjE=,2005-08-01 00:00:00.000
+Grease and Oil Products Company,adventure-works\jillian0,126-555-0172,5QCj8NIegcVaNIwAHhbulqzIKzgsgpVptbr8vMjvY9Q=,8L4g3I4=,2005-07-01 00:00:00.000
+Moderately-Priced Bikes Store,adventure-works\pamela0,763-555-0145,hW0+tFeNNdvPsnKDuHc6OmH0bCdD2kCfpU6qVvIjdPs=,fjVy+G4=,2005-08-01 00:00:00.000
+Economy Bikes Company,adventure-works\linda3,688-555-0113,fOnF7T/vMnI6uJzH1IxN9lcM8z31odelgSIW9Vu8sD4=,dz8Ej6A=,2006-09-01 00:00:00.000
+Third Bike Store,adventure-works\jillian0,383-555-0117,UsXZ9ElCaZBo0YED9A2khFNGjNK+8yHdxnraI+OHsZ8=,oMeb83g=,2006-09-01 00:00:00.000
+Bikes for Two,adventure-works\josé1,371-555-0143,lQBr+SJMfQdHmj/GHgx+x1PKMKtwLGbiInwVTo+4Qfo=,7P8PxcQ=,2006-09-01 00:00:00.000
+Metal Processing Company,adventure-works\garrett1,844-555-0112,+CFHIbYlE+nsmSbCpJOTLZXChbtYA9JzdSnd1Qejk5g=,w7ec7iI=,2005-09-01 00:00:00.000
+Initial Bike Company,adventure-works\shu0,229-555-0114,fftjn+fbjvHFJ4bf7rTpLdlCHv61xF+y0ZPKKevQV98=,OzSaq2k=,2006-09-01 00:00:00.000
+Latest Sports Equipment,adventure-works\david8,340-555-0131,kOabrc0OqOISR4N3D3FZkOh3yAKQCF/ozSx7G00Kpt0=,jpRF8lY=,2005-07-01 00:00:00.000
+Raw Materials Inc,adventure-works\pamela0,962-555-0166,mBQHYK00pq9+tDgH7TR6fPrrYQ2drX7/VuuHgkUSOiQ=,MxiyX14=,2005-08-01 00:00:00.000
+Lots of Bikes Storehouse,adventure-works\jillian0,494-555-0134,t9ecYoVIOcEiyXvl+noHoCymcRlJij1fzZzXfKeZ/R0=,6ZoXk8E=,2005-11-01 00:00:00.000
+Futuristic Bikes,adventure-works\shu0,163-555-0155,NN11OHHxrOm6r8lPyhXuBk13QMD+8tph5PIdJ4t0JmY=,PiILPfc=,2006-09-01 00:00:00.000
+Parcel Express Delivery Service,adventure-works\david8,162-555-0166,jIw8zSChmDX3xmVInKUV46U77LBgW9C5vlIMvK4NqF8=,J9DNyhU=,2005-11-01 00:00:00.000
+Prosperous Tours,adventure-works\jae0,1 (11) 500 555-0179,7cimopKXrRxK/+QAEW4WJ+XGTEEJvTsX0l1QxCAWQI0=,C4OiUF4=,2006-07-01 00:00:00.000
+Nonskid Tire Company,adventure-works\pamela0,525-555-0174,HKBXG8BXKW53RK2DsPsqNDV7PdDSavcncjD1t/rdW18=,dS1y3X0=,2005-11-01 00:00:00.000
+Metro Bike Works,adventure-works\michael9,689-555-0130,KZaaqy2YCpxZaXM7rzYJyuNkw9w+wWoUaL5P6Jdyzpk=,T2lZOPo=,2006-08-01 00:00:00.000
+Best o' Bikes,adventure-works\jillian0,575-555-0189,WdS3xcgtqW4nnV7dyZ17PmiMPZ5vKs5whm3ANBVQ1sQ=,mQK+bIw=,2007-07-01 00:00:00.000
+Client Discount Store,adventure-works\jillian0,658-555-0146,ChGbWjf0h+VNc991cHR4FwJMGxeHxuYSeKVPflcq7wc=,dt/JUB4=,2006-08-01 00:00:00.000
+Requisite Part Supply,adventure-works\josé1,644-555-0114,pd7lPYE+Gn7QnX4l6aMxG6WiRZGpPVsBcJ1kBpXl7pc=,MAOhXKA=,2005-07-01 00:00:00.000
+Mechanical Products Ltd.,adventure-works\shu0,128-555-0148,Ioh5Ss2cXrUAI8DZcSkQ/z92aEmHE0Wxqc6MdggjJQE=,MjQeaAE=,2006-08-01 00:00:00.000
+Commendable Bikes,adventure-works\david8,383-555-0155,haGTwCpR1pahJRX/490ASvk+bkWOZv828Z8Krd0XO50=,Jmtgb40=,2006-07-01 00:00:00.000
+Online Bike Sellers,adventure-works\michael9,249-555-0172,V74x3qYKzA71fWSI3y7gFD552b65vQ+acGzI6wdBsQ4=,hY2Xf6o=,2006-09-01 00:00:00.000
+Custom Accessories Company,adventure-works\garrett1,817-555-0114,XaEqG3bH0NhFTn8IBCk4SidcF444Tnvqqr5UjGUiN7E=,DblcZuo=,2006-08-01 00:00:00.000
+Courteous Bicycle Specialists,adventure-works\josé1,476-555-0184,VC5UG8CPRifGAgItWSWIpplMzshRj9HJwWt6KBvEFk0=,aNoO9K0=,2007-09-01 00:00:00.000
+Professional Cycle Store,adventure-works\shu0,148-555-0149,/96oQfFuq06DWi8P5TZqIU/tF2E/GKRMliIjGRWKRDE=,9P3dKrM=,2006-07-01 00:00:00.000
+Fifth Bike Store,adventure-works\david8,652-555-0132,ho3bUU87fZAlity/45XvFPVE/DgEaLKvI+ZW1e56rnA=,x1JqF8M=,2005-07-01 00:00:00.000
+Farthest Bike Store,adventure-works\josé1,251-555-0172,lYPMOabTmO7waFR155ZAm1jDwBg6VW2xrT6sZ1yxPio=,e8KtQ70=,2007-08-01 00:00:00.000
+Alternative Vehicles,adventure-works\pamela0,164-555-0147,HpDMv2bnK4/qDUMQn8+csux9vDdycGo7vFyJ5y4Vh/Q=,NbybY4k=,2005-11-01 00:00:00.000
+Channel Outlet,adventure-works\jae0,1 (11) 500 555-0138,adQ3TmZB28FhQvF2FntW1RInx5S+aOSvwpURQDLarr8=,KoBtEoU=,2007-09-01 00:00:00.000
+Retail Mall,adventure-works\josé1,726-555-0155,7zHYCWMhkitUJXggqG0dMfCqyK0FBDp/XwCeyPYWZ1A=,DBuWFZ4=,2005-07-01 00:00:00.000
+Metro Metals Co.,adventure-works\jae0,1 (11) 500 555-0118,1tbKzsdwFfEX1T/OP+I5Eu7EVKuWn2FviChJGtlaeQI=,x8xILbE=,2007-08-01 00:00:00.000
+Sheet Metal Manufacturing,adventure-works\jillian0,145-555-0152,W+klFtJ6V2H2UQK1pJdYy2MEbai2eYSHD0QGx02rFw8=,8iuXJ0k=,2006-08-01 00:00:00.000
+Thorough Parts and Repair Services,adventure-works\pamela0,827-555-0143,6puEloqDRSg8AhINyUQ7qORZUS5CON8jUaFikiprWVo=,bhH3VWU=,2005-08-01 00:00:00.000
+Uttermost Bike Shop,adventure-works\jae0,1 (11) 500 555-0118,+hCthjbuE+VctSZXuurfmfusjXPrneMHQFQLVjTsnuE=,fS7eEaQ=,2006-08-01 00:00:00.000
+Two-Wheeled Transit Company,adventure-works\josé1,700-555-0155,hKb4COq5+4SAW8APMfmPmILk4cdhwtpjpD7Yx8xcx9U=,eVaIdvY=,2005-08-01 00:00:00.000
+Metro Cycle Shop,adventure-works\david8,635-555-0126,sk3ylc8GdTAWxH2DM4cy8rLkoHXK7tIeMWUl3VNm+Bk=,2NEGr8A=,2005-09-01 00:00:00.000
+Outdoor Sporting Goods,adventure-works\shu0,118-555-0131,RKimtgGoqQN8dj2KGy7mvo2DrpTK0yOpF9e6sgxyOTU=,LQWSses=,2007-07-01 00:00:00.000
+Petroleum Products Distributors,adventure-works\josé1,990-555-0141,aQhg/A43Nq3pqIBjcyPBvjQ7qXHAckVwm6FjAZCx0nc=,RpQyjlA=,2007-09-01 00:00:00.000
+Bikes and Motorbikes,adventure-works\garrett1,112-555-0191,jtF9jBoFYeJTaET7x+eJDkd7BzMz15Wo9odbGPBaIak=,wVLnvHo=,2006-08-01 00:00:00.000
+Camping and Sports Store,adventure-works\josé1,193-555-0116,GJhY98QoDTRmv/6f6RcLwoj2v33jAZopR8AjLor/sqc=,fYgdeM0=,2007-09-01 00:00:00.000
+Rural Department Store,adventure-works\shu0,716-555-0167,ZIXjFmD2T/Gf9bPHIkx7X82eU+I86/8p3rmYxWqwtkQ=,BUBjqIQ=,2007-07-01 00:00:00.000
+Sports Commodities,adventure-works\david8,646-555-0137,d3uGruCihzt7+Dipsh3+fE3iZd/uKCf8sy56xa5chxU=,zmqmiAQ=,2005-09-01 00:00:00.000
+Responsible Bike Dealers,adventure-works\jillian0,620-555-0117,yaVIQNTOMlDFxsn08drJdHoPTkydd5XKkeBgAPyVGbk=,v43cndI=,2006-09-01 00:00:00.000
+Western Bike Supplies,adventure-works\shu0,944-555-0148,Q0MU0NsjDAbnQSqMBkP9Sm4G43DKXcirOnAKlzYSYnI=,DZ8e0Xk=,2006-07-01 00:00:00.000
+Advanced Bike Components,adventure-works\jillian0,279-555-0130,LNoK27abGQo48gGue3EBV/UrlYSToV0/s87dCRV7uJk=,YTNH5Rw=,2005-09-01 00:00:00.000
+Aerobic Exercise Company,adventure-works\linda3,244-555-0112,OKT0scizCdIzymHHOtyJKQiC/fCILSooSZ8dQ2Y34VM=,ihWf50M=,2007-09-01 00:00:00.000
+Corner Bicycle Supply,adventure-works\josé1,180-555-0114,NLAR7H8spiCb/C0qY+3qkJm3VuoSOqDw7yspRc1CTTg=,Whn5BXY=,2005-09-01 00:00:00.000
+Westside Plaza,adventure-works\shu0,362-555-0162,NghLMnHjoD3F7B0y8sTtYlpCq5imhhvrn56YUAUNEm4=,68RH5og=,2007-07-01 00:00:00.000
+Outstanding Cycles,adventure-works\david8,695-555-0161,I5oNRDKehZnUlVTunv+30kLR3rM7VyVA2vJyu6CNveI=,beKST+I=,2007-08-01 00:00:00.000
+Vigorous Sports Store,adventure-works\jae0,1 (11) 500 555-0178,20rlqqjWOPLBi7oYKBrHMzouHcYl6OknJcV+yc0zQKo=,QS6UTS4=,2006-09-01 00:00:00.000
+Sports Merchandise,adventure-works\pamela0,644-555-0111,Eo1pvctUvdkRpUgGHwOfILlh5uZiYuLv+eBXLj1viR8=,LCi+QgQ=,2007-09-01 00:00:00.000
+Fitness Toy Store,adventure-works\jillian0,351-555-0131,u/IE2VGaycl6iSw+8Es0ro5F6g//TK/eJA3ICMBHXmc=,n+71V7I=,2005-07-01 00:00:00.000
+General Cycle Storehouse,adventure-works\garrett1,127-555-0124,cTcQEsZdQPvGLuu5iDRwrqp4fM6oBxNFi+X7anqqPzA=,bvb6hus=,2005-09-01 00:00:00.000
+Fitness Cycling,adventure-works\shu0,448-555-0179,QHqQuKTbipj1cJzbCkCMH+zQGE09jtToYi9uy0cv77E=,KOGA0IE=,2007-07-01 00:00:00.000
+Good Bike Shop,adventure-works\jillian0,223-555-0184,yRB9ce1nhQby11wW4ZjaqdAHLcagnHeelEySfrDOivk=,af0s25U=,2005-09-01 00:00:00.000
+Thrilling Bike Tours,adventure-works\linda3,789-555-0184,UVTWGfYZBU+ZmXLqhvqZFDwYXdtX14O87KHOHN36XDc=,pI/k4Qw=,2007-09-01 00:00:00.000
+This Area Sporting Goods,adventure-works\jillian0,344-555-0181,3LD/Jab7lP6gIPvK5EdTnwhHBo+dxs3y9GbIgmN6E8Q=,BG6Ps64=,2006-07-01 00:00:00.000
+Full-Service Bike Store,adventure-works\michael9,264-555-0164,weDREfIdFEInQXlEuUK3AjoRiqGR7g2cJQHBZ1BT5xw=,ggpF1Og=,2005-09-01 00:00:00.000
+Genuine Bike Shop,adventure-works\jillian0,273-555-0181,ZJ2widMDceVmN30pfgwzpo2Z53AGVrr2LIlFccG4KEc=,BuagBic=,2005-09-01 00:00:00.000
+Extreme Riding Supplies,adventure-works\linda3,429-555-0145,8C7859RNaDWPJkDaaxgaJaZPSf7ikFyFa//RYOz0aPo=,tAAs8Fk=,2007-09-01 00:00:00.000
+Fleet Bikes,adventure-works\linda3,927-555-0198,Vlb2fj7yW2d5JtfPLZvbicsQNEgLhh0b93Uw2pLEBuE=,2cMmc9Y=,2006-08-01 00:00:00.000
+Local Hardware Factory,adventure-works\jillian0,221-555-0141,ZZhnNULC5d/7tZv0hUtCl4jKwgyZql8aSrIzlTaTvg0=,hGHOthw=,2006-09-01 00:00:00.000
+South Bike Company,adventure-works\garrett1,206-555-0195,o02Imw+gyZX9J1yiTBKYD4M5XlerPqz3usX+v3CsDHA=,PZCGT2g=,2007-08-01 00:00:00.000
+Discount Bicycle Specialists,adventure-works\jillian0,426-555-0181,Wkqdm53a0uim7B/e9+IT0I81uzxMNnh1FBaeXd3nyP0=,3tT/ffQ=,2005-11-01 00:00:00.000
+Machines & Cycles Store,adventure-works\garrett1,292-555-0128,61UcbVZnGT5eqxs0oFMv4JyipeaQCUZgUZkPgtVNBDo=,7+I+4k4=,2007-07-01 00:00:00.000
+Two Wheels Cycle Store,adventure-works\linda3,397-555-0144,9HEZAYB77VjHRd83ZDP94/ugDP0PhvUiIRCi3Cl5y7A=,j6Z6ny8=,2005-09-01 00:00:00.000
+Westside Cycle Store,adventure-works\jillian0,119-555-0144,4QoOmH+4/mabhuXqIQnoVm+1MjvTYyAHid9vpNehSxs=,sA8S2v4=,2005-12-01 00:00:00.000
+Urban Sports Emporium,adventure-works\josé1,383-555-0111,GZyRS1qyQMxNWXYf0B1uj2nyQjhk4oN+Qv3geEMUy5A=,94SS2WQ=,2006-08-01 00:00:00.000
+Sixth Bike Store,adventure-works\josé1,428-555-0176,NEJS/vq9oswLdLNa4VH0fbwb+fgxDYIHg2hPP1fn7t4=,lnEeim8=,2005-08-01 00:00:00.000
+Vehicle Shop,adventure-works\shu0,773-555-0182,BEePqLIHwU7zsFCJQcHQ8OGm8nkvUlj8YPFAT/teYOc=,+v0uddA=,2005-10-01 00:00:00.000
+First Department Stores,adventure-works\david8,542-555-0164,vcqabvDo1Fnle8WElVwwEwNwCGZKfSJvDCUVyps/SuQ=,gF7bPbY=,2006-07-01 00:00:00.000
+Grand Sport Boutique,adventure-works\michael9,941-555-0155,mWVOfXPZkIFZzQA0Ilekhl49LfhS31vdOtYEmBKSIkk=,FSkdXTM=,2006-08-01 00:00:00.000
+Distinctive Store,adventure-works\shu0,539-555-0182,ao0Wb4hq67DVVcZYX2vO/mOgiZoTtJMBJzi4/wt8mrE=,7wlaV4Y=,2005-09-01 00:00:00.000
+Handy Bike Services,adventure-works\michael9,859-555-0173,nkkvhNgGMBN5JS2w3ewyvV4KCwrTMYC4+yoS/4hIUok=,fqDHYeo=,2005-08-01 00:00:00.000
+Friendly Bike Shop,adventure-works\david8,119-555-0167,Xf7AJHcry+LouddJR3dIGHjo8du8EO+214E81gPafj0=,rXx8clQ=,2006-07-01 00:00:00.000
+Fashionable Bikes and Accessories,adventure-works\shu0,115-555-0113,/yVQQacXlcqZVH6x20kKCxCJ+sP4EjmPQXwwwInfNH0=,vJ/AcXo=,2005-09-01 00:00:00.000
+Citywide Service and Repair,adventure-works\josé1,680-555-0192,i+ukExAQLOnEpQFQLme/QYR8w6kME+/MdykXoSxwgFI=,FooiQMs=,2006-07-01 00:00:00.000
+Rugged Bikes,adventure-works\david8,839-555-0198,G6BHmDa5WKyDUTzHeOszC8XHrN8wPjUM76UTZb39tWc=,BNNUWH4=,2007-09-01 00:00:00.000
+Principal Bike Company,adventure-works\shu0,551-555-0155,BrhebOErAX2tbZ1LZxAb8hwE96ZdIjikETxIsIKfpLw=,v5pJpw0=,2006-09-01 00:00:00.000
+Finer Riding Supplies,adventure-works\josé1,767-555-0151,afWrNdx+a97zBy+NoV2h3JgMyfVCLmD1FMz7OiwtBRQ=,KVVlFXY=,2005-08-01 00:00:00.000
+Neighborhood Store,adventure-works\garrett1,394-555-0176,QC+He1HXF5uNbU5XqduVyZW0SlvdnAE2jhuD/06ukjE=,Uifpoxw=,2006-08-01 00:00:00.000
+Paint Supply,adventure-works\jillian0,358-555-0188,6lcVqEc4gGgfW6DsOks/KuDIWIP5qFsrc8sXtmcwj6E=,DKu7/UM=,2005-09-01 00:00:00.000
+Preferred Bikes,adventure-works\linda3,819-555-0186,9rOycZRxDntXWB8Y/285x4HS6G2ATNOzhqIhF+oBGqc=,BsI2IB4=,2005-08-01 00:00:00.000
+Rewarding Activities Company,adventure-works\garrett1,752-555-0185,oR9ACW0ZX4v6zBa57CfhePKM1qmHjgDwNdGaTDAp4io=,966Lz4w=,2005-08-01 00:00:00.000
+Stationary Bikes and Stands,adventure-works\jillian0,138-555-0156,AT0SeSL9gTlDL0/MHFMEy5GrEjR12DBF5ag/cyHZpJY=,l32Vf08=,2005-09-01 00:00:00.000
+Successful Sales Company,adventure-works\pamela0,143-555-0113,j42zXyaSRc55aauqsJrhWZdZBGkW64qaL1hO1tdgdQk=,5dgYmOY=,2006-09-01 00:00:00.000
+Downtown Hotel,adventure-works\shu0,147-555-0192,84meSWqxRT9guwZSihzP3MYe7UV2VaMLBldOf8pTy5A=,lsd099Q=,2005-09-01 00:00:00.000
+Certified Sports Supply,adventure-works\josé1,835-555-0116,6eApe0lB1ZkvyJB3Uo3LaYGV8sm2/NE9fUHXM7a0RYU=,M8SoIWU=,2005-09-01 00:00:00.000
+Rampart Amusement Company,adventure-works\jae0,1 (11) 500 555-0193,dI9bbaCIElCUwy2PYLUYLNIrdM9yCcuTmHspqw8Wsxc=,FihOX8w=,2007-08-01 00:00:00.000
+Sundry Sporting Goods,adventure-works\josé1,722-555-0169,hynkaEM/LxC86JGG4q4AGgiar6iWoIu5bLVB3gFq2RM=,DUDd/5g=,2005-09-01 00:00:00.000
+Farthermost Bike Shop,adventure-works\shu0,156-555-0187,9E6RJtJrsu2iqMbyKMJRaVfPipCW5XObegb3KE3K85M=,hiSI26I=,2005-08-01 00:00:00.000
+Suburban Cycle Shop,adventure-works\david8,706-555-0140,C7FdyTzpzS44mEsqgDG4s8S3CZJtl+yiy9sH4rEI9VY=,M4cce8o=,2005-08-01 00:00:00.000
+Racing Bike Outlet,adventure-works\david8,899-555-0134,oNLvRmGCzEz1jsW8aIhOPt/9GVbikzcIYiqMuMKtrYw=,ZeNva8s=,2006-11-01 00:00:00.000
+Utilitarian Sporting Goods,adventure-works\shu0,169-555-0178,Jlxkjapdo78bvTdzddS8yoUxcj6pyFuXwdsCGn6KHvI=,ClRPyyM=,2007-09-01 00:00:00.000
+Vigorous Exercise Company,adventure-works\josé1,916-555-0137,EVeayvYSlWRfySd2RBGRSr93ST2Me+VDyAoD44WBrrg=,jj5f+ZA=,2005-09-01 00:00:00.000
+Stock Parts and Supplies,adventure-works\david8,539-555-0121,NJJTfbDws96bPa7Giz9Mmq+M0NSYcjlcfwpjsUnYWdE=,MPxWTOU=,2007-08-01 00:00:00.000
+Roadway Supplies,adventure-works\shu0,962-555-0144,v404bp5zCcIyJO+s50eW4MbBxBjjkDQJe5ee5fvwBKI=,pDYvCjw=,2005-11-01 00:00:00.000
+Future Bikes,adventure-works\josé1,674-555-0188,zM1odbx2eTJoH556dXSIqTCDa5EBj8DWUSHVo67GEGc=,Q5U1IZU=,2006-12-01 00:00:00.000
+Satin Finish Company,adventure-works\jillian0,847-555-0151,TIOaZdFb/aFk03gncvEijaflLdTkxJfJnFJXXZdBDds=,PavVqD4=,2006-08-01 00:00:00.000
+Regional Manufacturing,adventure-works\shu0,425-555-0158,GgQkc8evqVQZvWwqG9L+QxrK0lzeuCIX4JIe535eQ8Y=,2HvuG3I=,2005-09-01 00:00:00.000
+Original Bicycle Supply Company,adventure-works\josé1,185-555-0190,CkyI2hpILZNVv06ClZJ5hmNstcWHJxU+3sqIAEO7AbM=,bsrg3KE=,2005-07-01 00:00:00.000
+Action Bicycle Specialists,adventure-works\jae0,1 (11) 500 555-0176,y8RaWYkfTrcpFEipLXAyKC2pL8AJgQhpW2mOmZ8sqF4=,vx5Ko/Q=,2007-09-01 00:00:00.000
+Roadway Bike Emporium,adventure-works\pamela0,691-555-0149,EXyX+Acbgfz6Y4iZ9KNW4TsmchGMdgjtJqmn+Xu2Mws=,/4/gh8A=,2007-07-01 00:00:00.000
+Sleek Bikes ,adventure-works\jillian0,834-555-0132,yV4p9H28cp19QO/bcSjLxZFYAs22W5SR9HnmTXUEWkM=,qUowBt4=,2007-09-01 00:00:00.000
+Retail Sporting Equipment,adventure-works\shu0,962-555-0112,pDvvWVr112kWGzoRmRsd4CgPPnyLtAEQGoYHe7Q65PM=,zYqZHNo=,2006-09-01 00:00:00.000
+Price-Cutter Discount Bikes,adventure-works\josé1,753-555-0179,pGBoWobCmo+yyzVgDnZL5z3fgTKLorCbJuofCkwniGs=,ZFXGiMU=,2005-09-01 00:00:00.000
+Central Bicycle Specialists,adventure-works\jae0,1 (11) 500 555-0136,X1Y5qQtF/cCa0JcWV87/0KfmpSje5R9/RdWM+fyB7Go=,+iF/Sqs=,2007-09-01 00:00:00.000
+Vast Bike Sales and Rental,adventure-works\pamela0,554-555-0124,357SDpcamaYl8SbrrrNR4GmwYLlfdnZvJy645g6uNIw=,5hdHSeE=,2005-08-01 00:00:00.000
+Summer Sports Place,adventure-works\jillian0,252-555-0127,DLW2IAbnBTdpl45F2NtNmotuCcasAhlznF/e4eBbffs=,r8MY8Co=,2006-09-01 00:00:00.000
+Real Sporting Goods,adventure-works\shu0,581-555-0172,zI7V47DGDDCr+5PUQzccWY8u8MazpHxzT0wB13+8m50=,Pz84Lbs=,2006-07-01 00:00:00.000
+The Bike Shop,adventure-works\david8,957-555-0125,jnz8GF/glxwiqqdUVHkoV+53Mp1HOnFR/azWzJ80Ktc=,qwoGYjU=,2005-07-01 00:00:00.000
+Safe Toys,adventure-works\shu0,329-555-0183,Wc/TlRg7q92tTI8Njp2Ivs8eKIRej8TfabwOQYYybe8=,anxKyOc=,2005-09-01 00:00:00.000
+Our Sporting Goods Store,adventure-works\josé1,920-555-0191,q1tCJRWRCSt1/VrADrMeQkLwbHjw1LlGOdVX8DLaYoM=,83MFiok=,2006-09-01 00:00:00.000
+Coho Sports,adventure-works\david8,627-555-0192,UA0N5pHkC4DZZ4xHgqJohcC+5L3JnoaegTulnb1lrhA=,WGizZm8=,2006-08-01 00:00:00.000
+Quick Delivery Service,adventure-works\garrett1,272-555-0123,xU8UixWEoFZ9PDzLfFA3AiuIaKPV9Z2ALf/Kbpu51Zo=,E7joL4U=,2005-09-01 00:00:00.000
+Basic Sports Equipment,adventure-works\linda3,768-555-0125,M2NMXJ5k9IJ7AKmryPzUhZqIMVsjJHs5P2voDCVEbsc=,sQuHPto=,2005-08-01 00:00:00.000
+Cash & Carry Bikes,adventure-works\jillian0,191-555-0198,s7Q4rdzaHWhqJHdZ05GB5VHh1eeVXQopPtyTvqSdehM=,GQqIg64=,2006-09-01 00:00:00.000
+General Bike Corporation,adventure-works\garrett1,994-555-0194,bdpqUxwvIpfkW2ApgaplNkwQ17fOA3rjtmM6B9f2qYE=,MO+/tX0=,2005-07-01 00:00:00.000
+Retail Cycle Shop,adventure-works\linda3,777-555-0163,0drckP/Xt0FMU29UWCYFp/wxtTBNd5PxmzaxMM5VKYc=,hxyAApA=,2006-09-01 00:00:00.000
+Social Activities Club,adventure-works\jillian0,596-555-0153,Uu7MYSoXZONPT3nnOss6MamCI0JtQpdQ0lHxfbTXg2s=,MFN+Ar8=,2005-08-01 00:00:00.000
+Blue Bicycle Company,adventure-works\michael9,492-555-0146,kdhlX1CwoRb+G+IbaNr94q5wH+aDau5he+dsV5sbuXw=,HfBhcWQ=,2006-08-01 00:00:00.000
+General Riding Supplies,adventure-works\garrett1,962-555-0175,SeCchhGjoFaNiCwjURJ30XSE9lKCbSxUL9tDtRrg1FU=,hZbeVTs=,2007-02-01 00:00:00.000
+Riding Excursions,adventure-works\linda3,912-555-0149,Wwwn13Huxc1/wSvPmlYH5pXoqz1XUDSzAdavDQcyTKk=,x+UpoXE=,2006-01-01 00:00:00.000
+Unique Bikes,adventure-works\jillian0,672-555-0112,bWjEPINRmvLEbxP7M/s7AJTqpJenlAkq34rNVCEXqpc=,+Yo0P+0=,2005-09-01 00:00:00.000
+Rural Cycle Emporium,adventure-works\josé1,150-555-0127,Qa3aMCxNbVLGrc0b99KsbQqiVgwYDfHcsK9GZSUxcTM=,Ls05W3g=,2006-09-01 00:00:00.000
+Associated Bikes,adventure-works\shu0,192-555-0173,ZccoP/jZGQm+Xpzc7RKwDhS11YFNybwcPVRYTSNcnSg=,sPoUBSQ=,2006-07-01 00:00:00.000
+Modular Cycle Systems,adventure-works\jillian0,710-555-0173,ElzTpSNbUW1Ut+L5cWlfR7MF6nBZia8WpmGaQPjLOJA=,nm7D5e4=,2006-07-01 00:00:00.000
+A Bike Store,adventure-works\pamela0,245-555-0173,L/Rlwxzp4w7RWmEgXX+/A7cXaePEPcp+KwQhl2fJL7w=,1KjXYs4=,2005-08-01 00:00:00.000
+Journey Sporting Goods,adventure-works\jillian0,417-555-0182,kqptixZ7LqTuOKcc7ylpabWrgWr5BDXa2fpkDxEwaCY=,Xe7grug=,2005-08-01 00:00:00.000
+Two Bike Shops,adventure-works\pamela0,724-555-0161,cvqeC4fJcKwJ9jlluiWvK5/MyuSi8neLnjFDGdvzJy4=,ot8WcXk=,2006-09-01 00:00:00.000
+Cycles Wholesaler & Mfg.,adventure-works\jae0,1 (11) 500 555-0181,2Pyd3S3Os61yt+lfSjMgSDNwT1LL4Qs51m1ob42We40=,Jvsxxrg=,2007-07-01 00:00:00.000
+Number One Bike Co.,adventure-works\jae0,1 (11) 500 555-0169,x78xcW0FvKo3V2RvMGf37bcWhb50vMZ22IuaZcu+qmM=,abrUsFg=,2006-07-01 00:00:00.000
+Standard Bikes,adventure-works\josé1,692-555-0136,Vf9lyf+xKSbSXq9yAcMEF9niZm29wvPV9e9dU9sYQVc=,6ansEQA=,2006-08-01 00:00:00.000
+The Bicycle Accessories Company,adventure-works\shu0,583-555-0198,YMhZzdS3NtxXPsz/PPksfdYWIvhuoemim9KoDsx20cg=,rQoQs38=,2006-09-01 00:00:00.000
+Active Systems,adventure-works\jillian0,521-555-0183,TYrGU6N0naplzEIsTHgR53UnASh8dXOYxTYOdOrI6Fo=,k1FFTeE=,2006-07-01 00:00:00.000
+Futuristic Sport Distributors,adventure-works\shu0,149-555-0196,mcO7vvh7FSdCS9FFgyEhwIHXKbrBkeYmcgksFie8Jzk=,S640434=,2006-07-01 00:00:00.000
+Big-Time Bike Store,adventure-works\shu0,669-555-0149,JFHzZpLu5HeGe//DMA9vbqFc0yeYRjrW7ItGAnDHMhk=,dUASILc=,2006-08-01 00:00:00.000
+The Showroom,adventure-works\josé1,898-555-0137,kz7kmFKpPYor30M8eaO3PAziuYa/bYqwcKomnP2NlxU=,s9kzXNA=,2005-11-01 00:00:00.000
+Year-Round Sports,adventure-works\david8,164-555-0145,GkzDDuB6pTaET7MyM3Kpgh+sP0JyO6EvZnbS4ep3kEg=,3CEircg=,2005-08-01 00:00:00.000
+The New Bike Store,adventure-works\linda3,637-555-0120,cIKsu790VaU1891IzLoO2agtT2vvaOXkL3puAV90Zro=,7erbA0k=,2005-12-01 00:00:00.000
+Primary Bike Distributors,adventure-works\garrett1,495-555-0161,Pe7m3z2RtNe4D8mkkCKh3/WPMsONB78YR1Kip5zJwzs=,x4UseEA=,2005-08-01 00:00:00.000
+Genial Bike Associates,adventure-works\jillian0,121-555-0139,h5QUx4zv/ilF+lJ6Pgsyd5OP92KaOJDXklOB6qbWskk=,kAdG4pM=,2006-08-01 00:00:00.000
+Commercial Sporting Goods,adventure-works\shu0,132-555-0150,NRM1BXnt0/4EDaPuM5qday+BOZANEisKCyGGQqJxXpY=,ewV5lII=,2006-09-01 00:00:00.000
+Wholesale Parts,adventure-works\josé1,674-555-0187,FJJVccEFyVV8NubSxOFblRtnKqQD221f9AT9xxYTOUA=,8ju6sOA=,2005-08-01 00:00:00.000
+Riding Cycles,adventure-works\jae0,1 (11) 500 555-0114,26rwIeR9oyfo+P6lodeASP/MAC2/tdKFbmFVC5uBRmA=,83inWt0=,2007-09-01 00:00:00.000
+Metro Manufacturing,adventure-works\josé1,737-555-0163,gCWE10xc3haq9E82Ksvg2GS6WBBD0H0ZF25YAS0CfJ8=,qxbTTkE=,2006-08-01 00:00:00.000
+Locks Company,adventure-works\shu0,385-555-0140,J9nhrWh6kpc/dGBkN7HRxrrbquy1Rit9UMPv9rbYjBs=,KiAAI5M=,2007-09-01 00:00:00.000
+Latest Accessories Sales,adventure-works\david8,461-555-0118,tbk7TwAC5jsqEhFRRIhnL9kPBoTy3XS+EjlReKVp5mw=,hpOsvJU=,2006-08-01 00:00:00.000
+Greater Bike Store,adventure-works\josé1,141-555-0172,RLemw98UkhyklI9z6Kx01t3fpE6z6E9v5GdRReTdOIY=,8n38uVg=,2005-09-01 00:00:00.000
+Distant Inn,adventure-works\shu0,244-555-0127,92Sfw/bl0dUJO9SAfoKn452VJcstSo2lgAbSPk97nRA=,8soIcx8=,2006-07-01 00:00:00.000
+Finer Mart,adventure-works\david8,867-555-0114,Q/nGAVzOO1ZT/4+BQ1kwltqQyzycLA2GGmDmBBxLMnM=,6IvcbVg=,2007-09-01 00:00:00.000
+Cross-Country Riding Supplies,adventure-works\josé1,344-555-0144,ftRWIIT4oF+if+ddn1ROYXHw6PAooKFX3uALZ0uEU98=,IRNPDIw=,2005-08-01 00:00:00.000
+Bike World,adventure-works\shu0,216-555-0122,d0WSjosAd7Y3XOWjNAkoTClCb50vwPuAawOSI1iosgs=,33g5co8=,2006-09-01 00:00:00.000
+Central Discount Store,adventure-works\david8,582-555-0113,o1GVo3vExeNzo0/ctdRGf2eDK3uzTlcUbr18tN+Slf8=,uMsvfdo=,2005-09-01 00:00:00.000
+Sharp Bikes,adventure-works\josé1,926-555-0159,uRlorVzDGNJIX9I+ehTlRK+liT4UKRgWhApJgUMC2d4=,jpHKbqE=,2005-08-01 00:00:00.000
+Metropolitan Sports Supply,adventure-works\shu0,828-555-0186,KJqV15wsX3PG8TS5GSddp6LFFVdd3CoRftZM/tP0+R4=,cNFKU4w=,2006-09-01 00:00:00.000
+Progressive Sports,adventure-works\david8,170-555-0127,YPdtRdvqeAhj6wyxEsFdshBDNXxkCXn+CRgbvJItknw=,fs1ZGhY=,2006-08-01 00:00:00.000
+Brakes and Gears,adventure-works\linda3,774-555-0133,tkI9EcizphWPzkz7kDwsd2AnKnZJi3/6+V5/fIuXPpo=,sQMfTfM=,2005-08-01 00:00:00.000
+The Accessories Store,adventure-works\jillian0,713-555-0168,lykTZ3vUjtqvW669XVLX3Gk9RrV2EBdorSOkebEHyvk=,M7xYGr4=,2006-08-01 00:00:00.000
+Family Cycle Store,adventure-works\garrett1,763-555-0120,qqWGyjPy74GLpFoYkhe3eQutrmixkWZkZHsl5d0mZpI=,TfeFfy4=,2006-09-01 00:00:00.000
+Superb Sales and Repair,adventure-works\garrett1,393-555-0167,RxykMRRwPRGYqzudPUFD1TKUT1bvgYanY1nsGIvL0Jo=,KnmJUbs=,2005-07-01 00:00:00.000
+Countryside Company,adventure-works\linda3,107-555-0117,2stwPzsfBnHlWJSw7+jrEjtXjaoxVkBMOVsluOUNpog=,zNDLlSI=,2006-10-01 00:00:00.000
+First Bike Store,adventure-works\jillian0,859-555-0140,M5s53K3R8LqDXmLZX8/YZWvhkKuUo3dkpcmAFuw6d8U=,1lkXMps=,2005-07-01 00:00:00.000
+General Department Stores,adventure-works\garrett1,143-555-0129,9q51LeEZWFDB+L+DtlRs239EjYmK9mN+eUjUvqLToLw=,niDlQYk=,2005-08-01 00:00:00.000
+Operational Manufacturing,adventure-works\garrett1,790-555-0197,3A2aNKKLe47G95cy27tMj6HW1ov3nLIR530SWR/vrZ4=,uJ5Exxo=,2008-06-01 00:00:00.000
+Online Bike Warehouse,adventure-works\josé1,214-555-0145,oQESLWRzzA7xFmx/oeIwJrVckc/0dzUxgBru6ptUjqA=,Y/Ty5LA=,2006-09-01 00:00:00.000
+Small Bike Shop,adventure-works\shu0,158-555-0154,RGd9trE6ku80EeSumu50h1MGol+lmzdeCrME1UBOKCA=,256h+G0=,2005-09-01 00:00:00.000
+Superior Hardware Distributors,adventure-works\david8,784-555-0120,BveRxEdkJ/QVGtSMNGrJu9cLHlihVb+wlFzxrHOsSkA=,DmNlCmQ=,2006-08-01 00:00:00.000
+Eastside Parts Shop,adventure-works\josé1,194-555-0149,6kDCzX44wtxfxZaC28Ek1kf7IczJ9hxLvDx9DfU8B60=,m9GHYGc=,2007-09-01 00:00:00.000
+First Cycle Store,adventure-works\shu0,454-555-0160,gna2fhtLmKi5ZKr50RuPJEI5Vh/osfQgFxhjmQs0XpI=,wt1HllQ=,2005-09-01 00:00:00.000
+Running and Cycling Gear,adventure-works\david8,146-555-0176,q9I0z+PgMdt+yPOfNb1pj69QvJ3r8WuMzirXw4mW4BM=,hDyaJt4=,2007-09-01 00:00:00.000
+Good Toys,adventure-works\linda3,969-555-0117,+gtwbVycsIIj2loVtrHNRN6IBLl20lQpRK8+JhzxyEo=,AwqZdYk=,2006-09-01 00:00:00.000
+Little Bicycle Supply Shop,adventure-works\jillian0,850-555-0198,hbXMO61Cy3vQxyCiHA7HyFryiQNgK7GAqMxsht+DVBI=,yvAO+sY=,2007-08-01 00:00:00.000
+All Seasons Sports Supply,adventure-works\jillian0,129-555-0120,7n1V5i5pzSERgIgX+CGs3KdSRIWCKMMppAbccjLLWQQ=,FebyYno=,2007-07-01 00:00:00.000
+Leisure Clearing House,adventure-works\jae0,1 (11) 500 555-0181,Hx2n4MFm10Hr0PL/j104QJK1WuHogx9N0H2U16PqpeM=,v8LsuAE=,2006-08-01 00:00:00.000
+The Commissary,adventure-works\josé1,570-555-0199,ClF4Z2L4qQo1wgDJduU5/gxrvxuwBxlzP75SHI50bGM=,S111y4k=,2006-12-01 00:00:00.000
+Affordable Sports Equipment,adventure-works\shu0,996-555-0196,aJNRDB5SUe0Z3cvfmFqrv/H8fOL9ZoIJhk2iqtM/244=,RvrCF5g=,2005-08-01 00:00:00.000
+Local Sales and Rental,adventure-works\jillian0,632-555-0171,NmON5fxy8YJbaxIrc6lSHicKQ9t/hBGfB1lwcWOr+xc=,Q5WaAeA=,2007-09-01 00:00:00.000
+Economy Center,adventure-works\josé1,555-555-0162,mRsptWTaXRgSBaILQ+BYKXl50LdVbLPrHgVQDImm2mc=,e139ONA=,2005-08-01 00:00:00.000
+Area Sheet Metal Supply,adventure-works\jae0,1 (11) 500 555-0119,vMyt8M0mW0ueXgZQ1RobrccRTzB3IVXOkX5Zy5h5a/A=,Qtn1h+4=,2006-08-01 00:00:00.000
+Synthetic Materials Manufacturing,adventure-works\pamela0,851-555-0127,BEq/PlDx4jHq8M8eOxUHo3LyOu4Aetq3bsbr8QlvMuI=,GVMmXow=,2006-01-01 00:00:00.000
+Rural Sales and Service,adventure-works\jillian0,190-555-0186,zOvX8kRn4fdhAQJxa8bWrWKsuorYlcuOn6PsgZy7o0c=,HQlRLlk=,2006-03-01 00:00:00.000
+Tubeless Tire Company,adventure-works\jae0,1 (11) 500 555-0146,V+NOGsSc50L8026bnGkDjKzDoI/ND88zeG1cDP5uO7Q=,SC/mXZQ=,2007-08-01 00:00:00.000
+Hardware Components,adventure-works\jillian0,153-555-0195,p/kLCLWcvgvL26dkJoqHo4GqZmYGVWCYCrBwbhTLKtY=,gJeczkk=,2005-08-01 00:00:00.000
+Retail Sporting Goods,adventure-works\shu0,129-555-0185,2d7alYFBKkadQ4uQc1u70/bdOXfmqCXEr5kCDqYMEc4=,hGtKm+M=,2006-10-01 00:00:00.000
+Efficient Cycling,adventure-works\josé1,809-555-0152,6UfB6OlcKQXLjWHj+yl3Ck3STFhp4YRHN/aojcUvsb0=,HGudpUM=,2007-08-01 00:00:00.000
+General Industries,adventure-works\josé1,718-555-0152,F+vY3tSf0ZDAiQakfFA7yxIP0M8ljrI5oYD1F1iZt4w=,H5fjp4Y=,2006-09-01 00:00:00.000
+Highway Bike Shop,adventure-works\shu0,199-555-0135,YodKwREGttzzQZXSLkjMe6ipm+9hE2yzBmAYNlj3qKM=,7hC00f0=,2005-08-01 00:00:00.000
+Rental Bikes,adventure-works\jillian0,367-555-0124,h5MoUod8rV39hjm6vrOX+iiVre1Alla8UfBtwIodbOg=,B/Jr1SE=,2005-08-01 00:00:00.000
+Roving Sports,adventure-works\pamela0,116-555-0163,qH31PnQBwyUFQKdjw4bJmkw4mcqJUwRlENuk3bHLNx4=,xAk6xGo=,2006-07-01 00:00:00.000
+Express Bike Services,adventure-works\jae0,1 (11) 500 555-0127,RJeObGR0plv36VFq0yPWZGwFUAeTDIWG4sJppheOSaM=,mZ4Tbi0=,2007-08-01 00:00:00.000
+Retail Discount Store,adventure-works\josé1,697-555-0131,qD4cGE0DTDO7V/k6mu0nvfAt3rfbx4PQyYjp43hn+ik=,rLOroU0=,2008-06-01 00:00:00.000
+Vale Riding Supplies,adventure-works\shu0,703-555-0120,KONBZCeYvjn9uAVeRFeN0CzMQcKJjrofhFrGTXAscDI=,3V8BWNc=,2007-07-01 00:00:00.000
+A Great Bicycle Company,adventure-works\jillian0,652-555-0189,PSKz4q56IqL3q9GPJjYwAKKz2sFtFqkN9n9dfiu1q+0=,F/sb/Xc=,2005-09-01 00:00:00.000
+Certified Bicycle Supply,adventure-works\pamela0,344-555-0133,y0iroPvPC4eEspx+3ldDYTXprGyXnnCpLGd3uXHr/+A=,F1wnUPk=,2006-09-01 00:00:00.000
+Exceptional Cycle Services,adventure-works\jae0,1 (11) 500 555-0140,FGdnPYTMqac/OnHuvpZH+gBqo30RCSqFL8kFsXLMOlI=,AnSCCJw=,2007-07-01 00:00:00.000
+Leisure Activities,adventure-works\josé1,103-555-0151,SjhcbJpcpaWw4QjUCmjWLcY825LVBVxAVlKUVRGVC/0=,Tb+oJnk=,2006-08-01 00:00:00.000
+Paints and Solvents Company,adventure-works\shu0,458-555-0179,HdGP+FhhGf8dYBcwT4pIsPs6mdixGxg1UVN0kMtW2Jk=,XdEyqf4=,2007-09-01 00:00:00.000
+Bikes for Kids and Adults,adventure-works\josé1,910-555-0116,SqD2biQr39fo9zJnjNrYH0b9Ww+jQyq4h+t6vSz0/4M=,8fDglPw=,2006-07-01 00:00:00.000
+Home Town Bike Store,adventure-works\garrett1,356-555-0190,b0w+/GVSsenvVoXksIyrBh+BGRKEIsId9aOsMDCOZi8=,W1IKTDo=,2007-09-01 00:00:00.000
+Sample Bike Store,adventure-works\linda3,858-555-0140,lepgCpcuzDRNfqPaAgUacRzPVGGXHwiRm7wwJ4cNgBs=,lkPNcdI=,2005-09-01 00:00:00.000
+Extras Sporting Goods,adventure-works\jillian0,320-555-0134,TGnRB6vDbV0LZss8tA9iu637/34mcJWkD0Ux4xaza/k=,2t9hMlk=,2007-03-01 00:00:00.000
+Sure & Reliable Sporting Goods,adventure-works\david8,476-555-0139,tw+fIchafvuaOuwyEXmlXbPr9Vt3EILylHlmwfm6Gig=,0fgKxF4=,2005-08-01 00:00:00.000
+Separate Parts Corporation,adventure-works\shu0,207-555-0129,Fz+NYcaaq3h6DqGHlfln+rg8Acm2x1ZGxvEayxBvctA=,RqNfsHY=,2005-07-01 00:00:00.000
+Basic Bike Company,adventure-works\david8,170-555-0189,C4CbjWP+J+L/5D9jekqIDsijBR8VvJlpu7IxqSE3ckI=,GR7idhc=,2005-07-01 00:00:00.000
+"Fabrikam Inc., West",adventure-works\michael9,224-555-0126,IQvtwGrIwRDX9ZHmv+WXAmqiXokkD7MT/x8ZdSBArjo=,6xHx1mQ=,2006-09-01 00:00:00.000
+Non-Slip Pedal Company,adventure-works\josé1,303-555-0117,d8QmW8XwLDvVvz9RYBNkv59Snnfp3tdnQQ/IZ0UEV9U=,FccEr0Q=,2005-08-01 00:00:00.000
+Weekend Bike Tours,adventure-works\shu0,495-555-0113,Rrgza3uGhmNF9StSEGpXIJ5moVVsmcjhGDjdCAPyMnc=,ekE0M9I=,2007-07-01 00:00:00.000
+General Supplies,adventure-works\josé1,765-555-0141,AI+KoUdA4XQcOZdVLM5fW573x+opUHDHSXxhPuylCL4=,s0Fgpmc=,2006-08-01 00:00:00.000
+Racing Toys,adventure-works\shu0,731-555-0187,GEdCYauvHekFxYpM0bYn4e0ipp8SY+vTyO9aqudo25Y=,hvfA+Y0=,2005-09-01 00:00:00.000
+Capable Sales and Service,adventure-works\pamela0,928-555-0117,EAI1ECvxzm9o9MbS8sPVK9QqTkerK/+KO5Wt6escxwY=,7xO2UQE=,2005-07-01 00:00:00.000
+Road Way Sales and Rental,adventure-works\josé1,112-555-0195,Mm7GafEB1oHJXept9uxIAGnsc2jKRzr0UgDRANPqAsI=,j/3FTKs=,2006-12-01 00:00:00.000
+Sturdy Toys,adventure-works\shu0,330-555-0116,tYV64ygQjda9WaWGc8CfVwqOiTHscX15aCHq9OPvjkw=,a2bt7rI=,2005-08-01 00:00:00.000
+Beneficial Exercises and Activities,adventure-works\jillian0,510-555-0123,JM8Jl1msELWEL8AlgkQ/cej3rlO0TFq13PfmQ/bHakM=,OLqP9tg=,2006-09-01 00:00:00.000
+Fad Outlet,adventure-works\pamela0,275-555-0179,FI+QpFgzPmmfZMk6bavb0AtoPMvD4CZ/+wGuwYgso3g=,B+59kWs=,2006-09-01 00:00:00.000
+Commerce Bicycle Specialists,adventure-works\jae0,1 (11) 500 555-0146,7OO7XsLMZcOhwoxw8KRfz/SjxQ3qCIVQqjRMtpyV/EY=,J1cVbE8=,2006-08-01 00:00:00.000
+Acceptable Sales & Service,adventure-works\josé1,656-555-0173,gD2lOrxAy3p4xvTGUYnECk5ROZd03OslvHCY+XDxQwI=,/P0XMaQ=,2005-08-01 00:00:00.000
+District Mall,adventure-works\jillian0,249-555-0179,NiUsCVv2EYAYfE2mK4VPPDgV7BXgOR4eQ4yVOvsOG1A=,Cdwoi3o=,2005-08-01 00:00:00.000
+Fitness Supplies,adventure-works\pamela0,390-555-0150,KQnTVrF88pDtzAwfV+7dDpsvf4FFaBRltsryZggImmI=,jZhDom8=,2007-08-01 00:00:00.000
+Mail Market,adventure-works\jae0,1 (11) 500 555-0144,/1zuZO01NBBN+zaoVVHAp+srLdfFp0nBmPrSBGPulOc=,jMsXQbs=,2007-08-01 00:00:00.000
+Twelfth Bike Store,adventure-works\josé1,155-555-0149,XRbPUzkzKesTrEzvftw5uMTagaFkYgTZJJlBScNp0hc=,4YXPsTU=,2006-08-01 00:00:00.000
+Consolidated Messenger,adventure-works\garrett1,244-555-0115,tgMDK3qjc6HiiWHXztTrPQw/eEJWy2T9OWRLlcrhhbM=,W9zzlRs=,2007-08-01 00:00:00.000
+Field Trip Store,adventure-works\linda3,608-555-0162,MA3e45BYPTDfQV7Kwg+fh94UR4S5kCbr0wdRqncaG0o=,0sZGs8c=,2006-08-01 00:00:00.000
+Finish and Sealant Products,adventure-works\shu0,362-555-0177,v9tjo4izinAmIevwhur1w9F/Wj0yCIj1eXG0q2dFc1s=,7uZHIds=,2005-09-01 00:00:00.000
+Finer Parts Shop,adventure-works\david8,129-555-0185,kV0cL2OLqsK4OFtnZiL106gAKEZOBwGuAVYOYakH0kM=,GAfxRv4=,2005-12-01 00:00:00.000
+Up-To-Date Sports,adventure-works\josé1,979-555-0163,056V7iOc8FPUiLanlyEqQX6cAWuL0TJ8fQBhX7mEjMU=,b96sfSU=,2007-08-01 00:00:00.000
+Mountain Bike Center,adventure-works\shu0,136-555-0134,Tp1Zre+rOA0pmlkyosHvuAxhbMWt7UcvCPrAYmXyI+w=,GdsdWsk=,2006-08-01 00:00:00.000
+Specialty Sports Store,adventure-works\jillian0,556-555-0192,2WMJfIzZjrB1xeQtjtSTUQfxxeowOV9LmAjmUkH/qP4=,A+rOrG0=,2006-07-01 00:00:00.000
+Scooters and Bikes Store,adventure-works\pamela0,810-555-0198,tTeR7tEh6XEQtr0WQ2eXrHrqjsOt2mdihjWZ3c4q50s=,IrqLpXQ=,2005-09-01 00:00:00.000
+Closest Bicycle Store,adventure-works\jae0,1 (11) 500 555-0173,3nXek8BFNaBhIi8CwSzQOVdo1ZthphI3kGbZTrt6jNM=,/rh9tFs=,2007-09-01 00:00:00.000
+Reasonable Bicycle Sales,adventure-works\shu0,996-555-0192,Re4KikAJLZeLX+pM2Bw7HZNkd5Yyd/vrGB7WhjbYmCo=,lGI5cA0=,2006-08-01 00:00:00.000
+Outdoor Sports Supply,adventure-works\pamela0,107-555-0132,dI+A6Ikk6Eh9ypKYxrAEHGdSxjzUhy8bEyDdFjggW9g=,09k9Tis=,2005-08-01 00:00:00.000
+Outdoor Aerobic Systems Company,adventure-works\jae0,1 (11) 500 555-0122,0d3F0pfNxXFKEufM738j3/fA0at2eUlZA8ibqRnMr7M=,6fOTb8g=,2007-08-01 00:00:00.000
+Metal Clearing House,adventure-works\josé1,290-555-0196,6p4SZnWdWPrBclHkaWFeooblNWE+Y4VJiuTM9hyonDI=,HaDRSbY=,2007-08-01 00:00:00.000
+Many Bikes Store,adventure-works\shu0,452-555-0179,zn3Nk0+i/zyvxFNh3OziN2Pxa3NfiIlVMJ9Ox86ytao=,5MZXwF4=,2006-09-01 00:00:00.000
+Largest Bike Store,adventure-works\jillian0,436-555-0160,el1s9e+hWeb+79bwrhU+hxHEyJN+j6tR8vWyKJDZmTs=,QgzjTPU=,2005-11-01 00:00:00.000
+Kickstands and Accessories Company,adventure-works\pamela0,932-555-0163,katp5sn21ZqJq5Z26YRBk9XXP3iFjpsX7tNPYAAxZlI=,xw9RymE=,2007-09-01 00:00:00.000
+Instruments and Parts Company,adventure-works\jae0,1 (11) 500 555-0155,ox4SPBzzVPKyCVoIcZvkdVLtnQlKoDXCciBGcqVAfrI=,n7ydrrc=,2007-09-01 00:00:00.000
+Gear-Shift Bikes Limited,adventure-works\josé1,653-555-0159,HyZexVTTLfKfhx/Sb+XHQb4vta2LC1FD3OYIkpmzMlQ=,/kc6RdY=,2006-12-01 00:00:00.000
+Frugal Bike Shop,adventure-works\shu0,482-555-0174,BmJaM+147GrhU00kNTtaTolp0EJcarJK/SCfew4ZiYA=,YADhpPo=,2006-08-01 00:00:00.000
+Family Entertainment Center,adventure-works\pamela0,396-555-0139,A6RveLbS4qIaP/sOesBWwK7KlcShNP0N7DDN2VRWxYk=,vhvGQUE=,2007-08-01 00:00:00.000
+Go-cart and Bike Specialists,adventure-works\jillian0,306-555-0166,viR4W7eY7DDH81eAFhdKTb8Hft5EM8K5CcxdoPdoqgs=,ZcFvFFc=,2006-07-01 00:00:00.000
+Trailblazing Sports,adventure-works\shu0,491-555-0132,XKb/GbNNUPKesifxpBwavz3wz5Y3jbFPJgsBIVEFvO0=,/9h1e7s=,2005-09-01 00:00:00.000
+Racing Partners,adventure-works\josé1,371-555-0112,Lk6x4lbbepoCdlNUxLYjn6D3zCWVxEKiK2DwxCURAis=,s7z2FRc=,2007-09-01 00:00:00.000
+Exhibition Showroom,adventure-works\jae0,1 (11) 500 555-0126,qUddcyDDhMORzm2Tp3YcC3vD7dXKgTEDtTorjPbhbmk=,C2IP7to=,2007-07-01 00:00:00.000
+Authorized Bike Sales and Rental,adventure-works\pamela0,947-555-0143,LoVploOms9pM4zQpIHQdGFLraQGd2ZtmlhGCKz8RxZk=,1PXmt4Y=,2007-08-01 00:00:00.000
+Two-Seater Bikes,adventure-works\jillian0,645-555-0193,M2iP88O+gIF88E9NpBhI0baOUusaGXrum+clJ/miHO8=,6UypM3o=,2007-09-01 00:00:00.000
+More Bikes!,adventure-works\linda3,354-555-0130,QFcESEnv3fd3s0KxftaNIRbKv6ba7PNXWLVrlx/mrF4=,WVm7PpY=,2005-09-01 00:00:00.000
+National Manufacturing,adventure-works\garrett1,493-555-0134,heRwLFQMae6Y0X7+Q7tLrq4gB5sXd8jC7uiIjXlEs6Y=,OHu+9rc=,2005-08-01 00:00:00.000
+Town Industries,adventure-works\jillian0,803-555-0116,sbrtAXJY79C5nTfNaktfR5zn9+uSLMSL26NETFSeEas=,UUwXzgY=,2007-09-01 00:00:00.000
+Security Racks and Locks Wholesalers,adventure-works\shu0,699-555-0183,y3YyySPHg7l+/+LZkIFmyZ7gE+BOIOdPEq+t+oE093g=,4m5UYgM=,2006-08-01 00:00:00.000
+Rapid Bikes,adventure-works\josé1,316-555-0138,B2RR480ridZSqURXY3APlxFk13GITW6LDFutGbpSUIs=,5MEUKYU=,2005-09-01 00:00:00.000
+Nearby Sporting Goods,adventure-works\jae0,1 (11) 500 555-0176,XrcuygOte7eGdTleJOKDmf/XBySqc/0xVbjpIPzMWQA=,R273GbA=,2006-08-01 00:00:00.000
+Front Sporting Goods,adventure-works\pamela0,119-555-0195,7dnLSdRuWFKBMjmORanIkwGVy3smf5yZI3YxSSyd5/U=,jH5dJh4=,2006-08-01 00:00:00.000
+Elite Bikes,adventure-works\jillian0,380-555-0116,MO2kc8uiSARHp+gxFShJchORmBfhfAz+NC31TDVciS8=,QXbFwBQ=,2006-09-01 00:00:00.000
+Catalog Store,adventure-works\michael9,440-555-0132,61zeTkO+eI5g8GG0swny8Wp/6GzZMFnT71fnW4lTHNY=,c7Ttvv0=,2005-08-01 00:00:00.000
+Chic Department Stores,adventure-works\jillian0,928-555-0116,IaD5AeqK9mRiIrJi/etZGVO6EiybLf/oksA2CqrpoJ0=,p6pOqKc=,2006-09-01 00:00:00.000
+Eastside Department Store,adventure-works\linda3,926-555-0164,ylTpkIOHKLcjihNjS0j/k10eOHOsWQMNhlbuOCp+UTY=,TgZnUOg=,2006-09-01 00:00:00.000
+Cycle Merchants,adventure-works\garrett1,783-555-0110,FV6z03ywMJOumcU+TEoL/Z/s4YP2fe8B3MJUUTA0CHU=,mFRhaEg=,2006-09-01 00:00:00.000
+Fitness Hotel,adventure-works\jillian0,377-555-0132,Uo3kAuNh936QfPTIfPt6I6Z3+olLMRu5IC5awuzDaG8=,uHgb0IU=,2006-09-01 00:00:00.000
+Grand Industries,adventure-works\garrett1,164-555-0118,YYTwMHBzX9ZM2XoYAzTo7bVfsHm05BO3Sl1+sokcRjM=,Zb6O1a0=,2007-09-01 00:00:00.000
+Leading Sales & Repair,adventure-works\jillian0,260-555-0130,VzG/BDjkh2mMWAn2eZ/FQDI5/pGurtzdCfxTaCf6zAs=,N5Ajt+s=,2005-09-01 00:00:00.000
+Tandem Sales and Service,adventure-works\garrett1,631-555-0155,5obs6LI7GwHZ55lps26uIsPyz7E4xBxF6pdB5KYAnn0=,/Q1sZG0=,2005-09-01 00:00:00.000
+Reliable Retail Center,adventure-works\garrett1,666-555-0143,4wMARaGSdJ36NMWSghaEHOvqGA6TSKb3JZJ8QlNfnok=,0JS3VLg=,2006-09-01 00:00:00.000
+Friendly Bike Shop,adventure-works\michael9,537-555-0190,qE35+Yj4hYU97ToV8hswsOzcxEz23lHAGGrIx9xL2YY=,DfqJQ4g=,2005-10-01 00:00:00.000
+Yellow Bicycle Company,adventure-works\jillian0,470-555-0171,E1wwrSH3sVJUF8UlhuAF+A5UTcdr1LObJBI67CvopDA=,LqtoWXs=,2005-07-01 00:00:00.000
+Sports Products Store,adventure-works\linda3,245-555-0191,PubfC/rRrBqx4Duzd5die33tt0m74frlazigsOv3D7s=,IZ6tF0Y=,2006-09-01 00:00:00.000
+Shipping Specialists,adventure-works\jae0,1 (11) 500 555-0174,eVyn3oU+PF4k5dUPOBDIl+7JqQhO17DiG/iJE8dPkgc=,MYqiM6w=,2008-02-01 00:00:00.000
+Authentic Sales and Service,adventure-works\jae0,1 (11) 500 555-0178,jlXuo2MxBdUaBFU1a7LQeFlHkJUTu5koo+dBRsKSbrw=,blIz9rk=,2006-09-01 00:00:00.000
+Official Parts Shop,adventure-works\pamela0,942-555-0141,EQfen7Xb4ZYQG6fC/yOA9SRKRw4HtLTBSHq1n1yOiAs=,LH8E+mM=,2006-07-01 00:00:00.000
+Discount Tours,adventure-works\shu0,685-555-0117,UbL/DUTnTSqLeeA4RQCXS5ofw+ATOi1iWyGfuy/PO6g=,CAB+B+I=,2005-12-01 00:00:00.000
+Tire Exchange,adventure-works\josé1,394-555-0168,Io27wVPQenseFjuryNClpoCLiH0HtpKdgQrqYO9W/OQ=,1sXsDEE=,2006-08-01 00:00:00.000
+Oils and Fluids Warehouse,adventure-works\jae0,1 (11) 500 555-0137,lePksYQQH7iiujo49o5l9u2k6fs+JCFtUHkyVL8P7WM=,JYjWVqI=,2006-08-01 00:00:00.000
+Rally Master Company Inc,adventure-works\shu0,171-555-0147,om5PZqKM1Q45cWiYPIrXl/Aae/JkbppbhDiC35ExpI8=,6YiQ2V8=,2007-07-01 00:00:00.000
+Professional Cyclists,adventure-works\josé1,154-555-0115,yFi3yGOATh6SBDVcA2+76Fx57aewXlckixsLIK6rBQ8=,WWk6sxA=,2005-08-01 00:00:00.000
+Exclusive Bicycle Mart,adventure-works\jae0,1 (11) 500 555-0175,7Rt3EiYjLXevQHTKMCMAavZEDngeIlBpAJZwplBW0G0=,M6OjY4Y=,2006-08-01 00:00:00.000
+City Manufacturing,adventure-works\pamela0,642-555-0187,ixajZho2s3ev/ogNQ9FUe1TyfA9yX1aEVWDOy/mdUAU=,k3iiros=,2006-11-01 00:00:00.000
+Bike Dealers Association,adventure-works\shu0,993-555-0179,iPjYe483dSgp0POtxsJVNCcegR3PdCK33L1Elr6F14w=,CqQEYuw=,2005-07-01 00:00:00.000
+"Health Spa, Limited",adventure-works\josé1,431-555-0153,fLh6z9dFddA6FLXlQVHhI5C9QbgD7gDHv63wFwwLzx8=,OtAJEtc=,2005-07-01 00:00:00.000
+Closeout Boutique,adventure-works\david8,173-555-0151,FA9j5YePslFGxxwINV2WNFLdtlbCtTK0YuF06zPc16Q=,ojfzrl4=,2006-08-01 00:00:00.000
+Bicycle Merchandise Warehouse,adventure-works\shu0,529-555-0195,ZoY0+khcW5IFNHszZdW3+g5b7xWZLakfBmLzPRGtfpI=,cpPYnNE=,2006-09-01 00:00:00.000
+Leather Seat Factory,adventure-works\josé1,191-555-0151,7fCBS9M7J3qJvmN3sgO/fbT2ap3vnYQ/k+fKjaHYP/0=,r9owTtw=,2006-07-01 00:00:00.000
+Practical Bike Supply Company,adventure-works\jillian0,623-555-0144,CzoEFQ0OfYtg1bNPN/BfavRr5F/ulWLF9VIraghdmZo=,pXNy1Eg=,2005-09-01 00:00:00.000
+Some Discount Store,adventure-works\pamela0,158-555-0123,mGggzeGp9z6TPCUrzGWt1N9gNU1CoQ+Cuu8cxh8uig4=,NNRxDmg=,2005-08-01 00:00:00.000
+Variety Cycling,adventure-works\jae0,1 (11) 500 555-0195,jI4Q0GjuXuPicv1G1Kd3ZluvRH4IsSCG13q/+rCAqW8=,qcerumU=,2007-08-01 00:00:00.000
+Remote Bicycle Specialists,adventure-works\josé1,723-555-0124,GMyxAFJL1Mwg+3iSBTMKDohFkSy5NKqGrVo0rL23S4I=,Ap+5ADc=,2006-09-01 00:00:00.000
+Friendly Neighborhood Bikes,adventure-works\jillian0,963-555-0146,SDOw6y7IRVh0ifbtO1Ue2Fb8cig2n0DkW+K3kmjQ/Xc=,K0sYx+Y=,2007-06-01 00:00:00.000
+Recommended Bicycles,adventure-works\garrett1,399-555-0114,pBvyGgTluk2JUwL/bK3NlXBRBgSUVk5HgHHhc2gU89k=,xdzdXEw=,2005-11-01 00:00:00.000
+Alpine Ski House,adventure-works\linda3,519-555-0112,xYJSzxUQxGXkjj+EUMGu3jCaA5aPco7WAdw+VZtUbUM=,v1Ew2R4=,2005-11-01 00:00:00.000
+Seats and Saddles Company,adventure-works\garrett1,162-555-0174,sGgVDtQybwwnAik3qbQBE+iRRjlk0ahJmqvKjTGFq5I=,aOFmjMY=,2006-11-01 00:00:00.000
+All Cycle Shop,adventure-works\pamela0,918-555-0127,2LMYXdm0nvmWcT+Md+NaYmfIPgdmP0R2PiRoynq7WCk=,GNkVrfA=,2006-07-01 00:00:00.000
+Tachometers and Accessories,adventure-works\jae0,1 (11) 500 555-0176,/hDOTbr9X/E4UE8H6wjOGHYZ6Gb8GDpmutPWgFTXQnc=,eiCRDs8=,2006-09-01 00:00:00.000
+Low Price Cycles,adventure-works\josé1,207-555-0167,d8+17xmtxYv0ovo+dfdJCIe7zpoChbE+X4f+gQrPU3A=,6CMCzUQ=,2007-08-01 00:00:00.000
+Metropolitan Manufacturing,adventure-works\shu0,140-555-0192,kE/AZF2xtlVStSAI51sBwnA1CENgrWppF3qD5KxBdVE=,q1lJvKo=,2005-11-01 00:00:00.000
+Orange Bicycle Company,adventure-works\jillian0,118-555-0184,h7ho5pw1ypORUO13IMzogsDDW1C9bUTmGWsz06Xax8E=,n/q5ims=,2006-08-01 00:00:00.000
+Riding Associates,adventure-works\pamela0,992-555-0134,xUl8Ag905RQfEG81+mYFO378kfiUUFE0TsYSJ1+rU9I=,ru6E/qg=,2007-08-01 00:00:00.000
+Essential Bike Works,adventure-works\jae0,1 (11) 500 555-0182,LJhS2DW9IscOBidp+dn6JWOa8axqqpEw2XIUiUMRKVM=,hrRF3s4=,2007-09-01 00:00:00.000
+Engineered Bike Systems,adventure-works\shu0,129-555-0164,7obarvC3BHLIE/oFo0n+bkB/EZ03Zc8Vu+F2jpK/CNM=,k6zgROU=,2007-09-01 00:00:00.000
+Professional Containers and Packaging Co.,adventure-works\shu0,741-555-0173,Ve/S2F7op7awJVe7aBPDkDTtsOiyLvShdymITr5ilEI=,ckT+1XU=,2006-08-01 00:00:00.000
+One Bike Company,adventure-works\josé1,797-555-0118,No6/IlWBeOp1TBZ1wAMOUa5VwYHrf3NyowdeNz4yGNs=,VQqvrDo=,2006-09-01 00:00:00.000
+Cycling Goods,adventure-works\jae0,1 (11) 500 555-0115,eVnhcpqYU3NKN52mFwcXw11n5pF8qfCFpZBVTo45zsY=,XSHxez4=,2006-08-01 00:00:00.000
+Cycle Clearance,adventure-works\pamela0,792-555-0194,0ZfPkEBplSrQkVpmgzrlfblSeTpJ4CJwJu7aVWOuOSM=,FDIch68=,2007-09-01 00:00:00.000
+Black Bicycle Company,adventure-works\jillian0,441-555-0144,eiskTIJrt6kqa7sel16D8OBUVoPmh3ud4vMChJvsZCc=,0rK3P2k=,2007-02-01 00:00:00.000
+Transport Bikes,adventure-works\shu0,328-555-0123,nPkLkDdemKmfK3VexvRWH5zYyNzwcfvny8DxWGnicSw=,hLswDiQ=,2007-09-01 00:00:00.000
+Sellers of Cycles,adventure-works\pamela0,517-555-0120,Sr0056wJj+khaWXi1cRpgU62bgcN9VaN6VJADuKWey4=,7uwL9LU=,2007-09-01 00:00:00.000
+Maintenance and Repair for Bicycles,adventure-works\jillian0,355-555-0180,6WWUM3/rogiNsZhr2QrAacB6N22U0ZWIgDs1/K05cpI=,4QdzKJI=,2007-08-01 00:00:00.000
+Fitness Department Stores,adventure-works\shu0,366-555-0110,Sapr4JrpchrNOsaFQvNr+C8KtCL9DgKHOdvYws7WrOM=,QvunVRs=,2007-08-01 00:00:00.000
+Famous Bike Shop,adventure-works\garrett1,226-555-0110,UhGiWqQH+ZqO4P2SIEQ4J9goCINUOyHBAttZ/+kJooA=,awRBGoA=,2006-09-01 00:00:00.000
+Gift and Toy Store,adventure-works\jillian0,493-555-0185,FT/8LOHiql36eAZLyTYZ2uqevgzDFxh6W9nVGmMmrhw=,M0RBO9w=,2006-07-01 00:00:00.000
+Major Sporting Goods,adventure-works\linda3,315-555-0131,iqikbQl8bEZb+ulQMP5FNBSjXL1grUcz4NTUP9GBmAQ=,ZqTw9GM=,2007-02-01 00:00:00.000
+Major Cycling,adventure-works\josé1,512-555-0122,y5SdWw1VGzybXaHVXTc7TQTKtr6N54cV+htK8Ehcr+E=,H8DZOb4=,2005-08-01 00:00:00.000
+Downhill Bicycle Specialists,adventure-works\jae0,1 (11) 500 555-0199,vQKhd203Tno3eBvyJW+nSrZ8E387QlZFJA7DcRyrcoI=,n/cr6qs=,2006-08-01 00:00:00.000
+Bike Experts,adventure-works\pamela0,924-555-0195,miUYjqbbeA6G0zx3zN+MFegYwr7MIqFBLBIHbcxnRhA=,H30Eu1I=,2006-08-01 00:00:00.000
+Extraordinary Bike Works,adventure-works\jillian0,306-555-0112,AURzT7TRCKKvm0AKkEPIhSIpt/3cDoZ1UtFixmM/7MU=,t31Ri34=,2006-09-01 00:00:00.000
+Valley Bicycle Distributors,adventure-works\shu0,323-555-0113,zeK7weuXbh2aNM2MR5WVlOvwCXgMuHuiecTgufohN+Y=,ic4F61g=,2006-11-01 00:00:00.000
+Top Sports Supply,adventure-works\josé1,613-555-0116,1EcI7xrTOArxMpieU6+v/pzf9gN7zS00aKQWROpwyyA=,eFbn7kk=,2006-07-01 00:00:00.000
+Metropolitan Bicycle Supply,adventure-works\jae0,1 (11) 500 555-0177,rKKXHEQ/Zb5Z596gCAMQepmJHLIzJy+BpJaz5GSv31c=,sEZH3m0=,2006-09-01 00:00:00.000
+Honest Repair Service,adventure-works\pamela0,688-555-0115,5tnpQqGsl1FEtOjw1+pBDGRv4Cwho0BiuspfaZVuVOE=,BhyhRuI=,2007-07-01 00:00:00.000
+Wheel Gallery,adventure-works\shu0,926-555-0136,CCZ7frrqKu31sPRuEGit5egtq9PHIW51qLxRTi/TAcY=,D5ohtJ8=,2005-07-01 00:00:00.000
+Top Bike Market,adventure-works\garrett1,421-555-0192,KP0aM3OevdwcZrEJTRWtCuCiSKfiPhktKN5FqHTnYhM=,yv8Jhf8=,2007-09-01 00:00:00.000
+Bicycle Lines Distributors,adventure-works\jillian0,145-555-0194,BQF73YAE2cFDpeWDP0v7uA0/ZGhGgw1xxiMQqe74r7I=,6ZebGOE=,2006-08-01 00:00:00.000
+Sparkling Paint and Finishes,adventure-works\linda3,787-555-0128,266JCMNzG3Y2YOZOElwlwmjuO9HTi1S0zbkD7zdQ03g=,kCUx/bc=,2005-08-01 00:00:00.000
+Plastic Parts Company,adventure-works\garrett1,204-555-0189,3/sdWTV1ScxayLuSf0nc6Wbyci2VcabsIBhV/KlQyZ0=,abgBRtE=,2005-11-01 00:00:00.000
+Big Cycle Mall,adventure-works\jillian0,588-555-0128,SnOacRNEqi3s4ywOGFR5MLNghukZ/0bEg9u6LbvzOOE=,+apUSQU=,2007-08-01 00:00:00.000
+Eighth Bike Store,adventure-works\shu0,785-555-0163,qnzSZKGLMJiDzrH9h5VfDojb/pTtQKfZNc7nW7qzQ90=,dPOi278=,2007-08-01 00:00:00.000
+Demand Distributors,adventure-works\david8,799-555-0118,BXs/jMkqmCMJn6V9vWS+iM7P+R0MGu2nmP4SLrJrYCg=,OSnERUk=,2006-06-01 00:00:00.000
+Red Bicycle Company,adventure-works\josé1,667-555-0112,hAXpzsxtYdB4R3XMc08m98BwHHvL0+J6J+y0u7B1ngg=,ycYA+jA=,2005-07-01 00:00:00.000
+Trendy Department Stores,adventure-works\shu0,273-555-0111,HfjBjq3HyrYM/vkKe/z2JUvmTeROuQWy7ntzIG/uTNk=,ke7sTgo=,2007-09-01 00:00:00.000
+Vintage Sport Boutique,adventure-works\david8,464-555-0188,dBvr8YSJ5D5BzBQ6uCOKmYVG2wDeIf97H4Jh3ePPYHM=,IS71rL8=,2007-07-01 00:00:00.000
+Travel Sports,adventure-works\pamela0,247-555-0197,DgTXKBbRFAv0jGUCn8yCPgnYQP1JhhVioFj9E1gXCS8=,jcMXc0w=,2007-09-01 00:00:00.000
+West Side Mart,adventure-works\jae0,1 (11) 500 555-0120,LDoJwsGCFLtxVdbdQBbN/to7zFF1skP+hWLrIrCxvAw=,NuexV8w=,2007-09-01 00:00:00.000
+Tenth Bike Store,adventure-works\josé1,744-555-0123,dOvfJZgKHSk3OY2F/ZDzG76q7Vqtd3ogvi6tEW81U9E=,30pSFOQ=,2005-08-01 00:00:00.000
+Fun Times Club,adventure-works\shu0,847-555-0184,4G603WBKyHh8eHVBhhE9Fx0bYyHxSASUpUyJ5v5AG88=,br8PN50=,2005-08-01 00:00:00.000
+Wingtip Toys,adventure-works\david8,328-555-0192,UnSgG1XBHKmwMxg5VTpybLrsNrIqNTu91vgwbUeI10o=,k8iQbOY=,2007-09-01 00:00:00.000
+Active Life Toys,adventure-works\josé1,907-555-0170,ZLp7yG5TYPKeQ7F+bE+OAdM4Z6HzU3EWjyk8211nuP8=,Vuzh1IE=,2006-09-01 00:00:00.000
+Quick Parts and Service,adventure-works\garrett1,882-555-0115,tSfXgpVAnQ6TL8XxnK0PMKR2Ngn49a0253VcVtcV6QQ=,V1n+9SQ=,2007-09-01 00:00:00.000
+Thrifty Parts and Sales,adventure-works\linda3,308-555-0175,Gdklarx2tW1EtZEyrAUEIhhguzrFKVS4Bh3BdAsGngk=,HUE+JKI=,2007-09-01 00:00:00.000
+A Typical Bike Shop,adventure-works\jillian0,686-555-0180,VWZMnmAlCwxvJOjzebXyjCeFgHg6VcKqDb6g/BJXULc=,/tv9aHA=,2005-09-01 00:00:00.000
+Fasteners & Bolts Outlet,adventure-works\garrett1,277-555-0182,95PLNarmtKePNK2WYvZZ8U/arYSs9EJoBoh2P7GHCCs=,MLAW5PQ=,2007-08-01 00:00:00.000
+Quantity Discounts,adventure-works\linda3,767-555-0193,S71ozp3yMBzUJk7fj4M8SRU+dElVKuXvieJDpDOvVv8=,iKVyEt4=,2006-08-01 00:00:00.000
+Swift Cycles,adventure-works\jillian0,184-555-0187,agm2RVYpEMjc+OpNxGG7gujHre5Wv8c+QcQgm6orG2I=,Yqlwc+g=,2005-08-01 00:00:00.000
+Large Bike Shop,adventure-works\garrett1,481-555-0131,70nGUIq7rO630L2/dv94XQ4HE2WWDpHISgy2OgtRANo=,HQA1TJE=,2006-07-01 00:00:00.000
+Wire Baskets and Parts,adventure-works\linda3,103-555-0179,9EmEkovAOZzHdTYAXrsu3h3xgAvhMbHSs9Q8N+/CWao=,mgl/qso=,2005-08-01 00:00:00.000
+Sports Store,adventure-works\jae0,1 (11) 500 555-0110,C0yLsx6zITh7lXoIPgG1bl1t5II3nx4GYi/RaS1yB84=,WnTAc/0=,2006-12-01 00:00:00.000
+Extended Tours,adventure-works\jae0,1 (11) 500 555-0140,X6Rw044/W0OFsOl+AJSD6WZFTsjbaCa3sn719STdi0Y=,tRFzZLs=,2006-07-01 00:00:00.000
+Convenient Sales and Service,adventure-works\pamela0,684-555-0134,syI1UO2qeBH9g2tg2nu3DTejZc7OEShGw8jxOqXfATY=,FAw6ojc=,2006-09-01 00:00:00.000
+Solid Bike Parts,adventure-works\jillian0,918-555-0141,/upSM1yXqGCA1vtYL9IB/NcKFrE3cg7HvqSYGTsQprM=,uXetzTc=,2005-09-01 00:00:00.000
+Permanent Finish Products,adventure-works\shu0,265-555-0143,TUk6pzHyHoA6CadqZKdfwfCKtp3f4RhQ07VWCDZDKIM=,osDZuYo=,2005-08-01 00:00:00.000
+Mercantile Outlet,adventure-works\josé1,680-555-0160,grGra0LtVSrZMZySvhV+ggFwVRSDpwDd39a18q68CD0=,kc4E3DA=,2006-08-01 00:00:00.000
+Exhilarating Cycles,adventure-works\michael9,371-555-0184,dG3/Y2fWXOAgE37z4Vj0K7ejAxDbv9M902ByQTjdng4=,/PSiwRg=,2006-07-01 00:00:00.000
+Exercise Center,adventure-works\shu0,112-555-0176,WH8bTbYkazE9T0ktiZYIAYDdJXsvjr2zbLiT3gxR6zk=,Zkv5OCw=,2006-09-01 00:00:00.000
+Great Bicycle Supply,adventure-works\jillian0,810-555-0160,VTpXtJAiSxeJraHh5mkwwAsGYMllZYzsOBpb2cu8rrQ=,FNe76Vk=,2005-08-01 00:00:00.000
+Mail-Order Outlet,adventure-works\pamela0,490-555-0132,v0bxLRLRKYxwN8fiORyJkpXaYZpCRhgfNNkwQnylFrE=,WTZFkow=,2006-08-01 00:00:00.000
+Nearby Cycle Shop,adventure-works\jae0,1 (11) 500 555-0195,lx5a4+AFGzH6mzjz6hpiR9scxbYGX8OcqFpv/cI6yFs=,hSwmBWk=,2006-09-01 00:00:00.000
+Retreat Inn,adventure-works\josé1,155-555-0140,RgzxIE8hSY/z6iJnmDYMZWdJTQBRaWKI7UaZhAPhPxY=,jYD20wc=,2006-08-01 00:00:00.000
+Technical Parts Manufacturing,adventure-works\shu0,433-555-0168,hNQpZV8787KyeDWfllnZWzY+l8DFEYTnwoZZzYtusi0=,HDCU1Bk=,2007-07-01 00:00:00.000
+Totes & Baskets Company,adventure-works\jillian0,560-555-0171,UWGC2U8F7AUNA2FuiT4agrBoxAFskHGQSxqP39B7zLQ=,iES3IZA=,2005-08-01 00:00:00.000
+World of Bikes,adventure-works\jillian0,695-555-0158,U1/CrPqSzwLTtwgBehfpIl7f1LHSFpZw1qnG1sMzFjo=,QhHP+y8=,2006-09-01 00:00:00.000
